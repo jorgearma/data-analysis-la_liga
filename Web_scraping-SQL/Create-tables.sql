@@ -18,11 +18,10 @@ CREATE TABLE ID_player_team (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT ID_player_team
-FROM 'C:\SQLData\BeyondStats\index_equipo_posicion.txt'
+FROM '/var/opt/mssql/sql_files/index_equipo_posicion.txt'
 WITH
 (
     DATAFILETYPE = 'widechar', -- Tipo de archivo de datos (UTF-16)
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
@@ -62,11 +61,10 @@ CREATE TABLE clasic_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT clasic_stats
-FROM 'C:\SQLData\BeyondStats\clasic_stats.txt'
+FROM '/var/opt/mssql/sql_files/clasic_stats.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
@@ -108,11 +106,10 @@ CREATE TABLE eficiencia_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT eficiencia_stats
-FROM 'C:\SQLData\BeyondStats\eficiencia_stats.txt'
+FROM '/var/opt/mssql/sql_files/eficiencia_stats.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
@@ -146,11 +143,10 @@ CREATE TABLE disciplina_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT disciplina_stats
-FROM 'C:\SQLData\BeyondStats\disciplina_stats.txt'
+FROM '/var/opt/mssql/sql_files/disciplina_stats.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
@@ -190,11 +186,10 @@ CREATE TABLE ataques_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT ataques_stats
-FROM 'C:\SQLData\BeyondStats\ataques_stats.txt'
+FROM '/var/opt/mssql/sql_files/ataques_stats.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
@@ -231,11 +226,10 @@ CREATE TABLE defensivas_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT defensivas_stats
-FROM 'C:\SQLData\BeyondStats\defensivas_stats.txt'
+FROM '/var/opt/mssql/sql_files/defensivas_stats.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
-    CODEPAGE = '65001', -- Codificación UTF-8
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos
