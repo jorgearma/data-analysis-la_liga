@@ -195,12 +195,21 @@ execution_time = (end_time - start_time)/60
 print("Tiempo de ejecución:", execution_time, "minutos")
 # Tiempo de ejecución de 2 minutos
 
-# Introducir DataFrame en un .txt
-posicion_jugadores.to_csv("C:\\SQLData\\BeyondStats\\index_equipo_posicion.txt", sep=';', index=False)
+import os
+
+# Definir el directorio de destino
+directory = '/home/siemprearmando/Desktop/data-analysis-la_liga/jornadas/jornada25'
+os.makedirs(directory, exist_ok=True)
+
+# Definir la ruta del archivo
+ruta_posicion_jugadores = os.path.join(directory, 'index_equipo_posicion.txt')
+
+# Guardar el DataFrame
+posicion_jugadores.to_csv(ruta_posicion_jugadores, sep=';', index=False)
 
 
-
-driver.quit() # Cerramos el navegador
+# Cerrar el navegador
+driver.quit()
 
 
 

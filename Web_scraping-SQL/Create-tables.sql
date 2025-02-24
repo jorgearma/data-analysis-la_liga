@@ -21,7 +21,7 @@ BULK INSERT ID_player_team
 FROM '/var/opt/mssql/sql_files/index_equipo_posicion.txt'
 WITH
 (
-    DATAFILETYPE = 'widechar', -- Tipo de archivo de datos (UTF-16)
+    DATAFILETYPE = 'char', -- Tipo de archivo de datos (UTF-16)
     FIELDTERMINATOR = ';',
     ROWTERMINATOR = '\n',
     FIRSTROW = 2 -- Si el archivo tiene encabezados, indica a qué fila comienzan los datos

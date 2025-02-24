@@ -282,20 +282,26 @@ Terminado el scrapeo, se almacenan los resultados en diferentes archivos .txt
 EL TIEMPO DE EJECUCIÓN ES DE MÁS O MENOS: 15 MINUTOS
 """
 
-# Escribir cada DataFrame en un archivo txt
-clasic_stats = 'C:\\SQLData\\BeyondStats\\clasic_stats.txt'
+import os
+
+# Definir el directorio de destino
+directory = '/home/siemprearmando/Desktop/data-analysis-la_liga'
+
+# Crear la carpeta si no existe
+os.makedirs(directory, exist_ok=True)
+
+# Definir rutas de archivos
+clasic_stats = os.path.join(directory, 'clasic_stats.txt')
+efiencia_stats = os.path.join(directory, 'eficiencia_stats.txt')
+disciplina_stats = os.path.join(directory, 'disciplina_stats.txt')
+ataques_stats = os.path.join(directory, 'ataques_stats.txt')
+defensivas_stats = os.path.join(directory, 'defensivas_stats.txt')
+
+# Guardar los DataFrames
 df_clasic_stats.to_csv(clasic_stats, sep=';', index=False)
-
-eficiencia_stats = 'C:\\SQLData\\BeyondStats\\eficiencia_stats.txt'
-df_eficiencia_stats.to_csv(eficiencia_stats, sep=';', index=False)
-
-disciplina_stats = 'C:\\SQLData\\BeyondStats\\disciplina_stats.txt'
+df_eficiencia_stats.to_csv(efiencia_stats, sep=';', index=False)
 df_disciplina_stats.to_csv(disciplina_stats, sep=';', index=False)
-
-ataques_stats = 'C:\\SQLData\\BeyondStats\\ataques_stats.txt'
 df_ataques_stats.to_csv(ataques_stats, sep=';', index=False)
-
-defensivas_stats = 'C:\\SQLData\\BeyondStats\\defensivas_stats.txt'
 df_defensivas_stats.to_csv(defensivas_stats, sep=';', index=False)
 
 
