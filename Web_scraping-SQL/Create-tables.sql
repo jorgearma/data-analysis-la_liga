@@ -18,7 +18,7 @@ CREATE TABLE ID_player_team (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT ID_player_team
-FROM '/var/opt/mssql/sql_files/index_equipo_posicion.txt'
+FROM '/var/opt/mssql/sql_files/index_equipo_posicion_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Tipo de archivo de datos (UTF-16)
@@ -61,7 +61,7 @@ CREATE TABLE clasic_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT clasic_stats
-FROM '/var/opt/mssql/sql_files/clasic_stats.txt'
+FROM '/var/opt/mssql/sql_files/clasic_stats_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
@@ -106,7 +106,7 @@ CREATE TABLE eficiencia_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT eficiencia_stats
-FROM '/var/opt/mssql/sql_files/eficiencia_stats.txt'
+FROM '/var/opt/mssql/sql_files/eficiencia_stats_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
@@ -143,7 +143,7 @@ CREATE TABLE disciplina_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT disciplina_stats
-FROM '/var/opt/mssql/sql_files/disciplina_stats.txt'
+FROM '/var/opt/mssql/sql_files/disciplina_stats_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
@@ -186,7 +186,7 @@ CREATE TABLE ataques_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT ataques_stats
-FROM '/var/opt/mssql/sql_files/ataques_stats.txt'
+FROM '/var/opt/mssql/sql_files/ataques_stats_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
@@ -226,7 +226,7 @@ CREATE TABLE defensivas_stats (
 
 -- Insertar datos en la tabla desde un archivo de texto
 BULK INSERT defensivas_stats
-FROM '/var/opt/mssql/sql_files/defensivas_stats.txt'
+FROM '/var/opt/mssql/sql_files/defensivas_stats_normalizado.txt'
 WITH
 (
     DATAFILETYPE = 'char', -- Corregir tipo de archivo de datos
