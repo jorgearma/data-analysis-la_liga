@@ -30,20 +30,39 @@ docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourPASSWORD' \
 
 **Note:** The path `/your/directory/BeyondStats-LaLiga/jornada` must match the location where the project was downloaded.
 
-## 3. Modify the target directory
+## Step 3: Modify the Target Directory
 
-Inside the script, you need to update the `directory` variable with the path where the Docker container is mounted to host the SQL Server database. Edit the following lines in the corresponding scripts:
+Before modifying the directory in the scripts, it is recommended to create an instance and ensure that all necessary dependencies are installed. Follow these steps:
 
-- `indice-posicion.py`
-- `Scraping_Stats_LaLiga.py`
+1. **Create an Instance**
+   - It is recommended to run the script in an isolated environment or on a suitable server where the Docker container hosting the SQL Server database is mounted.
+        ```bash
+        python -m venv venv
 
-Change this line:
+        source venv/bin/activate
+        ```
+   
+2. **Install Dependencies**
+   - Before running the scripts, install all required dependencies by executing:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - This ensures that all necessary libraries are available.
 
-```python
-    directory = '/your/directory/data-analysis-la_liga/jornadas/jornada25'
-```
+3. **Update the Directory in the Scripts**
+   - Inside the following scripts, update the `directory` variable with the path where the Docker container is mounted to host the SQL Server database.
+   
+   **Files to Modify:**
+   - `indice-posicion.py`
+   - `Scraping_Stats_LaLiga.py`
 
-To the appropriate path within the Docker container.
+   **Line to Modify:**
+   ```python
+   directory = '/your/directory/data-analysis-la_liga/jornadas/jornada25'
+   ```
+   - Replace `'/your/directory/...` with the appropriate path for your configuration.
+
+By following these steps, you will ensure that the scripts run correctly in your environment.
 
 ## 4. Run the scripts
 
