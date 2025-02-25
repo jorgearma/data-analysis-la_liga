@@ -285,7 +285,7 @@ EL TIEMPO DE EJECUCIÓN ES DE MÁS O MENOS: 15 MINUTOS
 import os
 
 # Definir el directorio de destino
-directory = '/home/siemprearmando/Desktop/data-analysis-la_liga'
+directory = '/home/siemprearmando/Desktop/data-analysis-la_liga/jornadas/jornada27'
 
 # Crear la carpeta si no existe
 os.makedirs(directory, exist_ok=True)
