@@ -1,6 +1,6 @@
 # Project: Web Scraping and Data Analysis - La Liga
 
-This project performs web scraping of La Liga data and stores it in a SQL Server database for further analysis.
+This project performs web scraping of La Liga data and stores it in a SQL Server database for further analysis. It is designed to run on a Linux environment, leveraging Linux-compatible tools and libraries for scraping, data processing, and database interaction.
 
 ## 1. Clone the repository
 
@@ -16,7 +16,7 @@ Access the project folder:
     cd data-analysis-la_liga/Web_scraping-SQL
 ```
 
-## 2. Create the container and database
+## 2. Create the container and databasegit
 
 To run SQL Server in a Docker container, use the following command:
 
