@@ -1,23 +1,105 @@
+# Project: Web Scraping and Data Analysis - La Liga
+
+This project performs web scraping of La Liga data and stores it in a SQL Server database for further analysis.
+
+## 1. Clone the repository
+
+To get started, clone the following repository:
+
+```bash
+    git clone https://github.com/jorgearma/data-analysis-la_liga.git
+```
+
+Access the project folder:
+
+```bash
+    cd data-analysis-la_liga/Web_scraping-SQL
+```
+
+## 2. Create the container and database
+
+To run SQL Server in a Docker container, use the following command:
+
+```bash
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourPASSWORD' \
+-p 1433:1433 \
+-v /your/directory/data-analysis-la_liga/jornada-SQL:/var/opt/mssql/sql_files \
+--name BD-name \
+-d mcr.microsoft.com/mssql/server:2019-latest
+```
+
+**Note:** The path `/your/directory/BeyondStats-LaLiga/jornada` must match the location where the project was downloaded.
+
+## 3. Modify the target directory
+
+Inside the script, you need to update the `directory` variable with the path where the Docker container is mounted to host the SQL Server database. Edit the following lines in the corresponding scripts:
+
+- `indice-posicion.py`
+- `Scraping_Stats_LaLiga.py`
+
+Change this line:
+
+```python
+    directory = '/your/directory/data-analysis-la_liga/jornadas/jornada25'
+```
+
+To the appropriate path within the Docker container.
+
+## 4. Run the scripts
+
+Run the scripts to perform web scraping and store the data in the database:
+
+```bash
+    python indice-posicion.py
+    python Scraping_Stats_LaLiga.py
+```
+
+## 5. Normalize player names
+
+After running the previous scripts, it is necessary to normalize player names using the `Text-Normalizer.py` script. Before executing it, make sure to modify the following path inside the script to match the correct directory:
+
+```python
+    directorio_entrada = '/your/directory/data-analysis-la_liga/jornadas/jornada25'
+```
+
+Then, run:
+
+```bash
+    python Text-Normalizer.py
+```
+
+## 6. Configure Docker and SQL Server
+
+Ensure that the Docker container with SQL Server is running and accessible. You can check running containers with:
+
+```bash
+    docker ps
+```
+
+If necessary, start the container with:
+
+```bash
+    docker start <container_name>
+```
+
+Then, enter the database and create it with the following command:
+
+```bash
+    sqlcmd -S localhost -U sa -P yourPASSWORD    
+    CREATE DATABASE BeyondStats;
+    GO
+```
+
+Next, run the SQL script to add the data:
+
+```bash
+    sqlcmd -S localhost -U sa -P yourPASSWORD -i Create-tables.sql
+```
+
+##
+
+\## Créditos
 
 
-## Estructura del Repositorio
 
-El repositorio está organizado de la siguiente manera:
-
-- **/web_scraping-SQL**: Contiene los scripts necesarios para realizar la extracción de datos de la página web de Beyond Stats y almacenamiento en una base de datos SQL.
-- **/Dashboards-PowerBI**: Contiene un enlace a los dashboards creados en PowerBI para que se puedan consultar de manera interactiva.
-- **/analisis-pandas**: Contiene scripts en Python para cargar, limpiar y analizar los datos extraídos utilizando la librería pandas.(en proceso)
-
-
-## Instrucciones de Uso
-
-1. Clona este repositorio en tu máquina local.
-2. Ejecuta el script **exe-preparacion.py** ubicado en `/web_scraping-SQL` para extraer los datos de la página de Beyond Stats y crear tablas dentro de una base de datos SQL que almacenen los conjuntos de estadísticas.
-3. Consulta los diferentes dashboards creados en PowerBI para visualizar su estructura y funcionamiento.
-
-
-
-## Créditos
-
-El código original fue desarrollado por **Sergio Prieto García**. Puedes encontrar el repositorio original [aquí](https://github.com/SergioPrietoGarcia/BeyondStats-LaLiga.git).
-
+The original code was developed by Sergio Prieto García. You can find the original repository [here]\([https://github.com/SergioPrietoGarcia/BeyondStats-LaLiga.git](https://github.com/SergioPrietoGarcia/BeyondStats-LaLiga.git)).
