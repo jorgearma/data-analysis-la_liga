@@ -1,0 +1,700 @@
+ID;Jugador;Equipo;Posicion
+adrian-2;Adrian San Miguel del Castillo;Real Betis;Porteros
+a-rodriguez-1;Adrian Rodriguez;Deportivo Alaves;Porteros
+aitor-fdez;Aitor Fernandez;CA Osasuna;Porteros
+aitor-fraga;Aitor Fraga;Real Sociedad;Porteros
+alberto-flores;Alberto Flores;Sevilla FC;Porteros
+alejandro-iturbe;Alejandro Iturbe;Atletico de Madrid;Porteros
+alex-padilla;Alejandro Padilla;Sin equipo;Porteros
+aleksandar-andreev;Aleksandar Andreev;Girona FC;Porteros
+alvaro-abajas;Alvin Abajas;CD Leganes;Porteros
+ander-astralaga;Ander Astralaga;FC Barcelona;Porteros
+lunin;Andrii Lunin;Real Madrid;Porteros
+andre-ferreira;Andre Filipe Magalhaes Ribeiro Ferreira;Real Valladolid CF;Porteros
+antonio-gomis;Antonio Gomis;Atletico de Madrid;Porteros
+sivera;Antonio Sivera;Deportivo Alaves;Porteros
+arnau-rafus;Arnau Rafus;Real Valladolid CF;Porteros
+augusto-batalla;Augusto Batalla;Rayo Vallecano;Porteros
+cesar-gonzalez;Cesar Fernandez;RC Celta;Porteros
+cardenas;Dani Cardenas;Rayo Vallecano;Porteros
+david-soria;David Soria;Getafe CF;Porteros
+diego-conde;Diego Conde;Villarreal CF;Porteros
+diego-ferrer;Diego Ferrer;Getafe CF;Porteros
+diego-kochen;Diego Kochen;FC Barcelona;Porteros
+dimitrios-stamatakis;Dimitrios Stamatakis;CA Osasuna;Porteros
+dinko-horkas;Dinko Horkas;UD Las Palmas;Porteros
+djordjije-medenica;Djordjije Medenica;Getafe CF;Porteros
+dominik-greif;Dominik Greif;RCD Mallorca;Porteros
+egoitz-arana;Egoitz Arana;Real Sociedad;Porteros
+pacheco-2;Fernando Pacheco;RCD Espanyol de Barcelona;Porteros
+francisco-gonzalez;Francisco Javier Gonzalez Perez;Real Madrid;Porteros
+f-vieites;Francisco Barbosa Vieites;Real Betis;Porteros
+german-garcia;German Garcia;Real Betis;Porteros
+giorgi-mamardashvili;Giorgi Mamardashvili;Valencia CF;Porteros
+gregoire-swiderski;Gregoire Swiderski;Deportivo Alaves;Porteros
+guilherme-fernandes;Guilherme Sousa Carvalho Fernandes;Real Betis;Porteros
+guillermo-ruiz;Guillermo Ruiz;CD Leganes;Porteros
+horatiu-moldovan;Horatiu Moldovan;Sin equipo;Porteros
+iker-alvarez;Iker Alvarez;Villarreal B;Porteros
+israel-mora;Israel Mora;UD Las Palmas;Porteros
+cuellar;Ivan Cuellar;RCD Mallorca;Porteros
+ivan-villar;Ivan Villar;RC Celta;Porteros
+inaki-pena;Ignacio Pena Sotorres;FC Barcelona;Porteros
+oblak;Jan Oblak;Atletico de Madrid;Porteros
+cillessen;Jasper Cillessen;UD Las Palmas;Porteros
+domenech;Jaume Domenech;Valencia CF;Porteros
+jesus-owono;Jesus Owono;Deportivo Alaves;Porteros
+jiri-letacek;Jiri Letacek;Getafe CF;Porteros
+j-garcia;Joan Garcia;RCD Espanyol de Barcelona;Porteros
+jorge-benito;Jorge Benito;Sin equipo;Porteros
+juan-carlos-1;Juan Carlos Martin Corral;Girona FC;Porteros
+juan-musso;Juan Musso;Atletico de Madrid;Porteros
+juan-soriano;Juan Soriano;CD Leganes;Porteros
+juanpe-1;Juan Pedro Gil Bueno;Rayo Vallecano;Porteros
+julen-agirrezabala;Julen Agirrezabala;Athletic Club;Porteros
+karl-hein;Karl Hein;Real Valladolid CF;Porteros
+leo-1;Leo Roman;RCD Mallorca;Porteros
+llorenc-serred;Llorenc Serred;RCD Espanyol de Barcelona;Porteros
+lucas-garcia;Lucas Garcia Madrigal;Girona FC;Porteros
+luiz-junior-1;Luiz Lucio Reis Junior;Villarreal CF;Porteros
+manu-gonzalez;Manuel Gonzalez Pallares;Real Betis;Porteros
+marc-vidal;Marc Vidal;RC Celta;Porteros
+ter-stegen;Marc-Andre ter Stegen;FC Barcelona;Porteros
+dmitrovic;Marko Dmitrovic;CD Leganes;Porteros
+matias-arbol;Matias Arbol;Sevilla FC;Porteros
+m-morro;Miguel Angel Morro;Sin equipo;Porteros
+oier-gastesi;Oier Gastesi;Athletic Club;Porteros
+pablo-valencia;Pablo Valencia;CA Osasuna;Porteros
+pau-lopez;Pau Lopez;Lens;Porteros
+paulo-gazzaniga;Paulo Gazzaniga;Girona FC;Porteros
+pere-joan;Pere Garcia;RCD Mallorca;Porteros
+pol-tristan;Pol Tristan;RCD Espanyol de Barcelona;Porteros
+rafa-romero;Rafael Romero;Sevilla FC;Porteros
+raul-jimenez-1;Raul Jimenez;Valencia CF;Porteros
+ruben-gomez-peris;Ruben Gomez;Villarreal CF;Porteros
+rui-silva;Rui Tiago Dantas da Silva;Sin equipo;Porteros
+s-herrera;Sergio Herrera;CA Osasuna;Porteros
+sergio-mestre;Sergio Mestre;Real Madrid;Porteros
+dimitrievski;Stole Dimitrievski;Valencia CF;Porteros
+courtois;Thibaut Courtois;Real Madrid;Porteros
+marrero;Unai Marrero;Real Sociedad;Porteros
+unai-simon;Unai Simon;Athletic Club;Porteros
+vicent-abril;Vicent Abril;Valencia CF;Porteros
+guaita;Vicente Guaita;RC Celta;Porteros
+vladyslav-krapyvtsov;Vladyslav Krapyvtsov;Girona FC;Porteros
+victor-puig;Victor Puig;UD Las Palmas;Porteros
+wojciech-szczesny;Wojciech Szczesny;FC Barcelona;Porteros
+a-remiro;Alex Remiro;Real Sociedad;Porteros
+alvaro-aceves;Alvaro Aceves;CD Eldense;Porteros
+alvaro-fernandez;Alvaro Fernandez;Sevilla FC;Porteros
+alvaro-killane;Alvaro Killane;UD Las Palmas;Porteros
+angel-f;Angel Fortuno;RCD Espanyol de Barcelona;Porteros
+aron-yaakobishvili;Aron Yaakobishvili;FC Barcelona;Porteros
+orjan-nyland;Ørjan Nyland;Sevilla FC;Porteros
+abqar;Abdel Abqar;Deportivo Alaves;Defensas
+abdul-mumin;Abdul Mumin;Rayo Vallecano;Defensas
+abel-bretones;Abel Bretones;CA Osasuna;Defensas
+adam-aznou;Adam Aznou;Real Valladolid CF;Defensas
+adama-boiro;Adama Boiro;Athletic Club;Defensas
+adria-altimira;Adria Alti;CD Leganes;Defensas
+pedrosa-1;Adria Pedrosa;Sevilla FC;Defensas
+adrian-pica;Adrian Hernandez Hernandez;Deportivo Alaves;Defensas
+aihen;Aihen Munoz;Real Sociedad;Defensas
+paredes-2;Aitor Paredes;Athletic Club;Defensas
+aitor-r;Aitor Ruibal;Real Betis;Defensas
+alex-balde;Alejandro Balde;FC Barcelona;Defensas
+catena;Alejandro Catena;CA Osasuna;Defensas
+a-frances;Alejandro Frances;Girona FC;Defensas
+alejandro-jay;Alejandro Jay;Deportivo Alaves;Defensas
+sedlar;Aleksandar Sedlar;Deportivo Alaves;Defensas
+a-espino;Alfonso Espino;Rayo Vallecano;Defensas
+a-pedraza;Alfonso Pedraza;Villarreal CF;Defensas
+nyom;Allan Nyom;Getafe CF;Defensas
+gorosabel;Andoni Gorosabel;Athletic Club;Defensas
+andreas-christensen;Andreas Christensen;FC Barcelona;Defensas
+andrei;Andrei Ratiu;Rayo Vallecano;Defensas
+andres-cuenca;Andres Cuenca;FC Barcelona;Defensas
+andy-pelmard;Andy Pelmard;UD Las Palmas;Defensas
+antal-yaakobishvili;Antal Yaakobishvili;Girona FC;Defensas
+antonio-candela;Antonio Candela;Real Valladolid CF;Defensas
+antonio-espigares;Antonio Espigares;Villarreal CF;Defensas
+a-raillo;Antonio Raillo;RCD Mallorca;Defensas
+antonio-rudiger;Antonio Rudiger;Real Madrid;Defensas
+aridane-1;Aridane Hernandez;Rayo Vallecano;Defensas
+arambarri-1;Aritz Arambarri;SD Eibar;Defensas
+aritz;Aritz Elustondo;Real Sociedad;Defensas
+arnau-1;Arnau Martinez;Girona FC;Defensas
+arnau-sola;Arnau Sola;Villarreal CF;Defensas
+axel-witsel;Axel Witsel;Atletico de Madrid;Defensas
+borna-barisic;Borna Barisic;CD Leganes;Defensas
+b-olivan;Brian Olivan;RCD Espanyol de Barcelona;Defensas
+carl-starfelt;Carl Starfelt;RC Celta;Defensas
+c-dominguez;Carlos Dominguez;RC Celta;Defensas
+carlos-romero;Carlos Romero;RCD Espanyol de Barcelona;Defensas
+catala;Jose Luis Catala Vazquez;RCD Espanyol de Barcelona;Defensas
+cenk-ozkacar;Cenk Ozkacar;Real Valladolid CF;Defensas
+lenglet;Clement Lenglet;Atletico de Madrid;Defensas
+copete;Jose Manuel Arias Copete;RCD Mallorca;Defensas
+cristhian-mosquera;Cristhian Mosquera;Valencia CF;Defensas
+cesar-azpilicueta;Cesar Azpilicueta;Atletico de Madrid;Defensas
+cesar-tarrega;Cesar Tarrega;Valencia CF;Defensas
+daley-blind;Daley Blind;Girona FC;Defensas
+daley-sinkgraven;Daley Sinkgraven;Sin equipo;Defensas
+carvajal;Dani Carvajal;Real Madrid;Defensas
+vivian;Dani Vivian;Athletic Club;Defensas
+dario-benavides;Dario Benavides;Sevilla FC;Defensas
+david-alaba;David Alaba;Real Madrid;Defensas
+david-2;David Arguelles;Getafe CF;Defensas
+david-jimenez-1;David Jimenez;Real Madrid;Defensas
+david-lopez;David Lopez;Girona FC;Defensas
+david-lopez-4;David Lopez;RCD Mallorca;Defensas
+david-torres-1;David Torres;Real Valladolid CF;Defensas
+diego-aguado;Diego Aguado;Real Madrid;Defensas
+diego-hormigo;Diego Hormigo;Sevilla FC;Defensas
+llorente-r;Diego Llorente;Real Betis;Defensas
+rico;Diego Rico;Getafe CF;Defensas
+foulquier;Dimitri Foulquier;Valencia CF;Defensas
+djene;Djene Dakonam;Getafe CF;Defensas
+domingos-d;Domingos de Sousa Coutinho Meneses Duarte;Getafe CF;Defensas
+egoitz-munoz;Egoitz Munoz;Deportivo Alaves;Defensas
+eneko-ortiz;Eneko Ortiz;Deportivo Alaves;Defensas
+franquesa;Enric Franquesa;CD Leganes;Defensas
+boyomo;Enzo Boyomo;CA Osasuna;Defensas
+eray-ervin-cumart;Eray Comert;Real Valladolid CF;Defensas
+eric-bailly;Eric Bailly;Villarreal CF;Defensas
+eric-garcia;Eric Garcia;FC Barcelona;Defensas
+facundo-garces;Facundo Garces;Deportivo Alaves;Defensas
+f-mendy;Ferland Mendy;Real Madrid;Defensas
+calero;Fernando Calero;RCD Espanyol de Barcelona;Defensas
+ferran-ruiz;Ferran Ruiz Marti;Girona FC;Defensas
+lejeune;Florian Lejeune;Rayo Vallecano;Defensas
+fran-garcia-1;Fran Garcia;Real Madrid;Defensas
+gerard-2;Gerard Martin;FC Barcelona;Defensas
+geronimo-spina;Geronimo Spina;Atletico de Madrid;Defensas
+gonzalo-montiel;Gonzalo Montiel;Sin equipo;Defensas
+gorka-rivera;Gorka Rivera;Getafe CF;Defensas
+guillem-trilla;Guillem Trilla;Sin equipo;Defensas
+hamari-traore;Hamari Traore;Real Sociedad;Defensas
+hector-bellerin;Hector Bellerin;Real Betis;Defensas
+hector-fort;Hector Fort;FC Barcelona;Defensas
+zubeldia;Igor Zubeldia;Real Sociedad;Defensas
+iker-bachiller;Iker Bachiller;CD Leganes;Defensas
+iker-cordoba;Iker Cordoba;Valencia CF;Defensas
+ilias-kostis;Ilias Kostis;Atletico de Madrid;Defensas
+ismael-bekhoucha;Ismael Bekhoucha;Getafe CF;Defensas
+balliu;Ivan Balliu;Rayo Vallecano;Defensas
+inaki-ruperez;Inaki Ruperez;Real Sociedad;Defensas
+i-martinez;Inigo Martinez;FC Barcelona;Defensas
+jackson-porozo;Jackson Porozo;Sin equipo;Defensas
+jacobo-ramon;Jacobo Ramon;Real Madrid;Defensas
+javi-galan;Javi Galan;Atletico de Madrid;Defensas
+javi-hdez;Javi Hernandez;CD Leganes;Defensas
+javi-lopez-4;Javi Lopez;Real Sociedad;Defensas
+javier-rodriguez-1;Javi Rodriguez;RC Celta;Defensas
+javi-sanchez-1;Javi Sanchez de Felipe;Real Valladolid CF;Defensas
+manquillo;Javier Manquillo;RC Celta;Defensas
+areso;Jesus Areso;CA Osasuna;Defensas
+j-navas;Jesus Navas;Sin equipo;Defensas
+vallejo;Jesus Vallejo;Real Madrid;Defensas
+j-vazquez-1;Jesus Vazquez;Valencia CF;Defensas
+j-mojica;Johan Mojica;RCD Mallorca;Defensas
+jon-aramburu;Jon Aramburu;Real Sociedad;Defensas
+jon-balda;Jon Balda;Real Sociedad;Defensas
+jon-martin;Jon Martin;Real Sociedad;Defensas
+pacheco-3;Jon Pacheco;Real Sociedad;Defensas
+herrando;Jorge Herrando;CA Osasuna;Defensas
+jorge-saenz;Jorge Saenz;CD Leganes;Defensas
+aidoo-jr;Joseph Aidoo;Real Valladolid CF;Defensas
+gaya;Jose Gaya;Valencia CF;Defensas
+j-m-gimenez;Jose Gimenez;Atletico de Madrid;Defensas
+jose-angel-carmona;Jose Angel Carmona;Sevilla FC;Defensas
+jose-angel-lopez;Jose Angel Lopez;Sin equipo;Defensas
+joao-urbaez;Joao Urbaez;CD Leganes;Defensas
+juan-bernat;Juan Bernat;Getafe CF;Defensas
+j-berrocal;Juan Berrocal;Getafe CF;Defensas
+juan-cruz-1;Juan Cruz Alvaro Armada;CA Osasuna;Defensas
+foyth;Juan Foyth;Villarreal CF;Defensas
+juan-herzog;Juan Herzog;UD Las Palmas;Defensas
+iglesias;Juan Iglesias;Getafe CF;Defensas
+juanpe-rl;Juan Pedro Ramirez Lopez;Girona FC;Defensas
+kounde;Jules Kounde;FC Barcelona;Defensas
+juma-bah;Abdulai Juma Bah;Lens;Defensas
+kike-salas;Kike Salas;Sevilla FC;Defensas
+kiko-femenia;Kiko Femenia;Villarreal CF;Defensas
+koke-5;Jorge Iglesias Gonzalez;Real Valladolid CF;Defensas
+ladislav-krejci-ii;Ladislav Krejci;Girona FC;Defensas
+gonzalo-aguilar;Lalo Aguilar;Albacete BP;Defensas
+cabrera;Leandro Cabrera;RCD Espanyol de Barcelona;Defensas
+logan-costa;Logan Evans Costa;Villarreal CF;Defensas
+lorenzo-aguado-herrera;Lorenzo Aguado Herrera;Real Madrid;Defensas
+loic-bade;Loic Bade;Sevilla FC;Defensas
+luca-lohr;Luca Lohr;Getafe CF;Defensas
+lucas-alcazar-moreno;Lucas Alcazar;Real Betis;Defensas
+lucas-rosa;Lucas Oliveira Rosa;Sin equipo;Defensas
+lucas-v;Lucas Vazquez;Real Madrid;Defensas
+l-perez;Luis Perez;Real Valladolid CF;Defensas
+luken-beitia;Luken Beitia;Real Sociedad;Defensas
+m-sanchez;Manu Sanchez;Deportivo Alaves;Defensas
+marash-kumbulla;Marash Kumbulla;RCD Espanyol de Barcelona;Defensas
+bartra;Marc Bartra;Real Betis;Defensas
+marco-de-las-sias;Marco de Las Sias;Rayo Vallecano;Defensas
+marcos-alonso;Marcos Alonso;RC Celta;Defensas
+marcao;Marcos do Nascimento Teixeira;Sevilla FC;Defensas
+valjent;Martin Valjent;RCD Mallorca;Defensas
+martin-conde;Martin Conde;RC Celta;Defensas
+marvin-1;Marvin Park;UD Las Palmas;Defensas
+mateu-morey;Mateu Morey;RCD Mallorca;Defensas
+matija-nastasic;Matija Nastasic;CD Leganes;Defensas
+max-aarons;Max Aarons;Valencia CF;Defensas
+maximiliano-caufriez;Maximiliano Caufriez;Sin equipo;Defensas
+miguel-3;Miguel Gutierrez;Girona FC;Defensas
+mihailo-ristic;Mihailo Ristic;RC Celta;Defensas
+mika-marmol;Mika Marmol;UD Las Palmas;Defensas
+diakhaby;Mouctar Diakhaby;Valencia CF;Defensas
+moussa-diarra-1;Moussa Diarra;Deportivo Alaves;Defensas
+nabil-aberdin;Nabil Aberdin;Getafe CF;Defensas
+nacho-vidal;Nacho Vidal;Real Oviedo;Defensas
+nahuel-molina;Nahuel Molina;Atletico de Madrid;Defensas
+nahuel-tenaglia;Nahuel Tenaglia;Deportivo Alaves;Defensas
+natan;Natan Bernardo de Souza;Real Betis;Defensas
+nayef-aguerd;Nayef Aguerd;Real Sociedad;Defensas
+nobel-mendy;Nobel Mendy;Real Betis;Defensas
+omar-alderete;Omar Alderete;Getafe CF;Defensas
+omar-1;Omar El Hilali;RCD Espanyol de Barcelona;Defensas
+pablo-busto-1;Pablo Busto;Real Betis;Defensas
+maffeo;Pablo Maffeo;RCD Mallorca;Defensas
+pau-cubarsi;Pau Cubarsi;FC Barcelona;Defensas
+pau-navarro;Pau Navarro;Villarreal CF;Defensas
+pelayo-fernandez;Pelayo Fernandez;Rayo Vallecano;Defensas
+chavarria-1;Pep Chavarria;Rayo Vallecano;Defensas
+ramon-martinez;Ramon Martinez;Sevilla FC;Defensas
+r-albiol;Raul Albiol;Villarreal CF;Defensas
+raul;Raul Asencio;Real Madrid;Defensas
+raul-chasco;Raul Chasco;Real Valladolid CF;Defensas
+reinildo;Reinildo Isnard Mandava;Atletico de Madrid;Defensas
+ricardo-rodriguez-1;Ricardo Rodriguez;Real Betis;Defensas
+le-normand;Robin Le Normand;Atletico de Madrid;Defensas
+rodrigo-abajas;Rodrigo Abajas;Valencia CF;Defensas
+romain-perraud;Romain Perraud;Real Betis;Defensas
+r-araujo;Ronald Araujo;FC Barcelona;Defensas
+ruben-iranzo;Ruben Iranzo;Valencia CF;Defensas
+r-pena;Ruben Pena;CA Osasuna;Defensas
+santiago-mourino;Santiago Mourino;Deportivo Alaves;Defensas
+scott-mckenna;Scott McKenna;UD Las Palmas;Defensas
+sebastian-john-wade-gardiner;Sebas Wade;RCD Mallorca;Defensas
+sergi-cardona;Sergi Cardona;Villarreal CF;Defensas
+sergi-dominguez;Sergi Dominguez;FC Barcelona;Defensas
+s-gomez;Sergi Gomez;RCD Espanyol de Barcelona;Defensas
+sergio-arribas-1;Sergio Arribas;Real Betis;Defensas
+s-carreira;Sergio Carreira;RC Celta;Defensas
+sergio-g;Sergio Gonzalez;CD Leganes;Defensas
+siebe-van-der-heyden;Siebe Van der Heyden;FC St Pauli;Defensas
+nianzou-kouassi;Tanguy Nianzou;Sevilla FC;Defensas
+thierry-r;Thierry Rendall Correia;Sin equipo;Defensas
+lato;Antonio Latorre Grueso;RCD Mallorca;Defensas
+unai-egiluz;Unai Egiluz;CD Mirandes;Defensas
+unai-garcia;Unai Garcia;CA Osasuna;Defensas
+nunez-2;Unai Nunez;Athletic Club;Defensas
+valentin-rosier;Valentin Rosier;CD Leganes;Defensas
+valentin-barco;Valentin Barco;Strasbourg;Defensas
+valentin-pezzolesi;Valentin Pezzolesi;UD Las Palmas;Defensas
+valery;Valery Fernandez;RCD Mallorca;Defensas
+willy-kambwala;Willy Kambwala;Villarreal CF;Defensas
+xavier-pleguezuelo;Xavier Pleguezuelo;Real Betis;Defensas
+yarek-gasiorowski;Yarek Gasiorowski;Valencia CF;Defensas
+yeray-2;Yeray Alvarez;Athletic Club;Defensas
+yoel-lago;Yoel Lago;RC Celta;Defensas
+youssef-lekhedim;Youssef Lekhedim;Real Madrid;Defensas
+youssouf-sabaly;Youssouf Sabaly;Real Betis;Defensas
+yuri-b;Yuri Berchiche;Athletic Club;Defensas
+alex-munoz;Alex Munoz;UD Las Palmas;Defensas
+alex-suarez;Alex Suarez;UD Las Palmas;Defensas
+alex-valle;Alex Valle;Como;Defensas
+alvaro-cortes-1;Alvaro Cortes;FC Barcelona;Defensas
+odriozola;Alvaro Odriozola;Real Sociedad;Defensas
+a-tejero;Alvaro Tejero;RCD Espanyol de Barcelona;Defensas
+e-militao;Eder Gabriel Militao;Real Madrid;Defensas
+i-lekue;Inigo Lekue;Athletic Club;Defensas
+de-marcos;Oscar De Marcos;Athletic Club;Defensas
+mingueza;Oscar Mingueza;RC Celta;Defensas
+aboubacar-bassinga;Aboubacar Bassinga;UD Las Palmas;Centrocampistas
+januzaj;Adnan Januzaj;UD Las Palmas;Centrocampistas
+aimar-1;Aimar Oroz;CA Osasuna;Centrocampistas
+aitor-gismera;Aitor Gismera;Atletico de Madrid;Centrocampistas
+alassane-diatta;Alassane Diatta;Villarreal CF;Centrocampistas
+albert-mboyo-sambi-lokonga;Albert Sambi Lokonga;Sevilla FC;Centrocampistas
+alberto-collado;Alberto Collado;Sevilla FC;Centrocampistas
+a-moleiro;Alberto Moleiro;UD Las Palmas;Centrocampistas
+alberto-risco;Alberto Risco;Getafe CF;Centrocampistas
+alex-kral;Alex Kral;RCD Espanyol de Barcelona;Centrocampistas
+ali-fadal;Ali Fadal;Valencia CF;Centrocampistas
+guevara;Ander Guevara;Deportivo Alaves;Centrocampistas
+ander;Ander Herrera;Sin equipo;Centrocampistas
+andre-almeida-1;Domingos Andre Ribeiro Almeida;Valencia CF;Centrocampistas
+antonio-blanco;Antonio Blanco;Deportivo Alaves;Centrocampistas
+sanchez;Antonio Sanchez;RCD Mallorca;Centrocampistas
+a-tuhami;Anuar Tuhami;Real Valladolid CF;Centrocampistas
+arda-guler;Arda Guler;Real Madrid;Centrocampistas
+arsen-zakharyan;Arsen Zakharyan;Real Sociedad;Centrocampistas
+arthur;Arthur Henrique Ramos de Oliveira Melo;Girona FC;Centrocampistas
+arthur-vermeeren;Arthur Vermeeren;RB Leipzig;Centrocampistas
+asier-osambela;Asier Osambela;CA Osasuna;Centrocampistas
+aurelien-tchouameni;Aurelien Tchouameni;Real Madrid;Centrocampistas
+b-ramirez;Benito Ramirez;UD Las Palmas;Centrocampistas
+benat-prados;Benat Prados;Athletic Club;Centrocampistas
+benat-turrientes;Benat Turrientes;Real Sociedad;Centrocampistas
+brahim;Brahim Diaz;Real Madrid;Centrocampistas
+brais-mendez;Brais Mendez;Real Sociedad;Centrocampistas
+alena;Carles Alena;Deportivo Alaves;Centrocampistas
+carlos-benavidez;Carlos Benavidez;Deportivo Alaves;Centrocampistas
+carlos-guirao;Carlos Guirao;Real Betis;Centrocampistas
+chema-andres;Jose Maria Andres Baixauli;Real Madrid;Centrocampistas
+christantus-uche;Christantus Uche;Getafe CF;Centrocampistas
+ivan-cantalejo;Ivan Cantalejo;Real Valladolid CF;Centrocampistas
+conor-gallagher;Conor Gallagher;Atletico de Madrid;Centrocampistas
+c-de-la-hoz;Cesar de la Hoz;Real Oviedo;Centrocampistas
+damian-rodriguez;Damian Rodriguez;RC Celta;Centrocampistas
+d-ceballos;Dani Ceballos;Real Madrid;Centrocampistas
+dani-olmo;Dani Olmo;FC Barcelona;Centrocampistas
+parejo;Dani Parejo;Villarreal CF;Centrocampistas
+daniel-requena;Dani Requena;Villarreal CF;Centrocampistas
+dani-rodriguez;Dani Rodriguez;RCD Mallorca;Centrocampistas
+daniel-luna;Daniel Luna;FC Cartagena;Centrocampistas
+daouda-doumbia;Daouda Doumbia;Deportivo Alaves;Centrocampistas
+darko;Darko Brasanac;CD Leganes;Centrocampistas
+denis-suarez;Denis Suarez;Villarreal CF;Centrocampistas
+diego-mendez;Diego Mendez;CD Eldense;Centrocampistas
+djibril-sow;Djibril Sow;Sevilla FC;Centrocampistas
+donny-van-de-beek;Donny van de Beek;Girona FC;Centrocampistas
+dario-essugo;Dario Cassia Luis Essugo;UD Las Palmas;Centrocampistas
+edu-exposito;Edu Exposito;RCD Espanyol de Barcelona;Centrocampistas
+eduardo-camavinga;Eduardo Camavinga;Real Madrid;Centrocampistas
+enric-garcia;Enric Garcia;Girona FC;Centrocampistas
+enzo-barrenechea;Enzo Barrenechea;Valencia CF;Centrocampistas
+loiodice;Enzo Loiodice;UD Las Palmas;Centrocampistas
+fabio;Fabio Gonzalez;CD Tenerife;Centrocampistas
+valverde-1;Federico Valverde;Real Madrid;Centrocampistas
+fermin-lopez;Fermin Lopez;FC Barcelona;Centrocampistas
+fernando-lopez;Fernando Lopez;RC Celta;Centrocampistas
+florian-grillitsch;Florian Grillitsch;Real Valladolid CF;Centrocampistas
+fran-beltran;Fran Beltran;RC Celta;Centrocampistas
+francisco-martinez-1;Fran Perez;Valencia CF;Centrocampistas
+franco-cervi;Franco Cervi;RC Celta;Centrocampistas
+f-de-jong;Frenkie de Jong;FC Barcelona;Centrocampistas
+gabriel-misehouy;Gabriel Misehouy;Girona FC;Centrocampistas
+gavi;Pablo Paez Gavira;FC Barcelona;Centrocampistas
+gumbau;Gerard Gumbau;Rayo Vallecano;Centrocampistas
+lo-celso;Giovani Lo Celso;Real Betis;Centrocampistas
+guille-fernandez;Guille Fernandez;FC Barcelona;Centrocampistas
+hugo-g;Hugo Guillamon;Valencia CF;Centrocampistas
+hugo-sotelo;Hugo Sotelo;RC Celta;Centrocampistas
+hugo-alvarez-1;Hugo Alvarez;RC Celta;Centrocampistas
+losada;Iker Losada;RC Celta;Centrocampistas
+iker-munoz;Iker Munoz;CA Osasuna;Centrocampistas
+ilaix;Moriba Kourouma Kourouma;RC Celta;Centrocampistas
+isco;Francisco Roman Alarcon Suarez;Real Betis;Centrocampistas
+isi-2;Isi Palazon;Rayo Vallecano;Centrocampistas
+ivan-gil;Ivan Gil;SD Eibar;Centrocampistas
+ivan-jaime;Ivan Jaime;Valencia CF;Centrocampistas
+ivan-martin;Ivan Martin;Girona FC;Centrocampistas
+i-sanchez;Ivan Sanchez Aguayo;Real Valladolid CF;Centrocampistas
+inigo-arguibide;Inigo Arguibide;CA Osasuna;Centrocampistas
+jailson;Jailson Marques Siqueira;RC Celta;Centrocampistas
+james-1;James Rodriguez;Sin equipo;Centrocampistas
+jan-salas;Jan Salas;RCD Mallorca;Centrocampistas
+javier-guerra;Javi Guerra;Valencia CF;Centrocampistas
+javi-martinez-2;Javi Martinez;SD Eibar;Centrocampistas
+javi-munoz;Javi Munoz;UD Las Palmas;Centrocampistas
+javier-serrano;Javi Serrano;Atletico de Madrid;Centrocampistas
+jhon-solis;Jhon Solis;Girona FC;Centrocampistas
+jordan;Joan Jordan;Deportivo Alaves;Centrocampistas
+casals;Joel Roca;CD Mirandes;Centrocampistas
+j-patrick;John Patrick;Reims;Centrocampistas
+joao-cardoso;Johnny Cardoso;Real Betis;Centrocampistas
+guridi;Jon Guridi;Deportivo Alaves;Centrocampistas
+jon-magunacelaya;Jon Magunazelaia;Cordoba CF;Centrocampistas
+moncayola;Jon Moncayola;CA Osasuna;Centrocampistas
+jon-ander-olasagasti;Jon Olasagasti;Real Sociedad;Centrocampistas
+joni-montiel;Joni Montiel;Rayo Vallecano;Centrocampistas
+j-g-campana;Jose Campana;UD Las Palmas;Centrocampistas
+gragera;Jose Gragera;RCD Espanyol de Barcelona;Centrocampistas
+juan-cruz;Juan Cruz;CD Leganes;Centrocampistas
+juanlu-1;Juanlu Sanchez;Sevilla FC;Centrocampistas
+jude-bellingham;Jude Bellingham;Real Madrid;Centrocampistas
+julian-chicco;Julian Chicco;CD Leganes;Centrocampistas
+justin-smith;Justin Smith;RCD Espanyol de Barcelona;Centrocampistas
+kenedy;Robert Kenedy Nunes do Nascimento;Real Valladolid CF;Centrocampistas
+kike-1;Kike Perez;Venezia FC;Centrocampistas
+kirian;Kirian Rodriguez;UD Las Palmas;Centrocampistas
+koke;Jorge Resurreccion Merodio;Atletico de Madrid;Centrocampistas
+luca-de-la-torre;Luca de la Torre;Sin equipo;Centrocampistas
+l-ocampos;Lucas Ocampos;Sin equipo;Centrocampistas
+torro;Lucas Torro;CA Osasuna;Centrocampistas
+lucien-agoume;Lucien Agoume;Sevilla FC;Centrocampistas
+l-milla;Luis Milla;Getafe CF;Centrocampistas
+modric;Luka Modric;Real Madrid;Centrocampistas
+luka-sucic;Luka Sucic;Real Sociedad;Centrocampistas
+manu-bueno;Manu Bueno;Sevilla FC;Centrocampistas
+manu-fuster;Manu Fuster;UD Las Palmas;Centrocampistas
+morlanes;Manu Morlanes;RCD Mallorca;Centrocampistas
+marc-bernal;Marc Bernal;FC Barcelona;Centrocampistas
+marc-casado;Marc Casado;FC Barcelona;Centrocampistas
+marc-roca;Marc Roca;Real Betis;Centrocampistas
+m-llorente;Marcos Llorente;Atletico de Madrid;Centrocampistas
+mario-maroto;Mario Maroto;Real Valladolid CF;Centrocampistas
+mario-martin;Mario Martin;Real Valladolid CF;Centrocampistas
+zubimendi;Martin Zubimendi;Real Sociedad;Centrocampistas
+mateo-flores;Mateo Flores;Real Betis;Centrocampistas
+m-arambarri;Mauro Arambarri;Getafe CF;Centrocampistas
+mikel-jauregizar;Mikel Jauregizar;Athletic Club;Centrocampistas
+vesga;Mikel Vesga;Athletic Club;Centrocampistas
+moi-gomez;Moi Gomez;CA Osasuna;Centrocampistas
+naci-unuvar;Naci Unuvar;Sin equipo;Centrocampistas
+naim-garcia;Naim Garcia;Racing Club Ferrol;Centrocampistas
+gudelj;Nemanja Gudelj;Sevilla FC;Centrocampistas
+noah-darvich;Noah Darvich;FC Barcelona;Centrocampistas
+o-sancet-1;Oihan Sancet;Athletic Club;Centrocampistas
+mascarell;Omar Mascarell;RCD Mallorca;Centrocampistas
+oriol-romeu;Oriol Romeu;Girona FC;Centrocampistas
+pablo-barrios-rivas;Pablo Barrios;Atletico de Madrid;Centrocampistas
+p-fornals;Pablo Fornals;Real Betis;Centrocampistas
+pablo-ibanez;Pablo Ibanez;CA Osasuna;Centrocampistas
+pablo-marin;Pablo Marin;Real Sociedad;Centrocampistas
+pablo-rivera;Pablo Rivera;Sevilla FC;Centrocampistas
+pablo-torre;Pablo Torre;FC Barcelona;Centrocampistas
+pape-alassane-gueye;Pape Gueye;Villarreal CF;Centrocampistas
+pathe-ciss;Pathe Ciss;Rayo Vallecano;Centrocampistas
+pedri;Pedro Gonzalez Lopez;FC Barcelona;Centrocampistas
+pedro-aleman;Pedro Aleman;Valencia CF;Centrocampistas
+pedro-diaz;Pedro Diaz;Rayo Vallecano;Centrocampistas
+pedro-ortiz;Pedro Ortiz;Cordoba CF;Centrocampistas
+peio-canales;Peio Canales;Athletic Club;Centrocampistas
+pejino;Francisco Jesus Crespo Garcia;Elche CF;Centrocampistas
+pepelu;Jose Luis Garcia Vaya;Valencia CF;Centrocampistas
+pere-milla;Pere Milla;RCD Espanyol de Barcelona;Centrocampistas
+pol-lozano;Pol Lozano;RCD Espanyol de Barcelona;Centrocampistas
+rafael-bauza;Rafael Bauza;RCD Espanyol de Barcelona;Centrocampistas
+r-terrats;Ramon Terrats;Getafe CF;Centrocampistas
+nteka;Randy Nteka;Rayo Vallecano;Centrocampistas
+raul-martinez-1;Raul Martinez;Girona FC;Centrocampistas
+tapia-1;Renato Tapia;CD Leganes;Centrocampistas
+ricard-artero;Ricard Artero;Girona FC;Centrocampistas
+navarro-2;Robert Navarro;RCD Mallorca;Centrocampistas
+lopez-alcaide;Roberto Lopez;CD Leganes;Centrocampistas
+rodri-3;Rodrigo Sanchez Rodriguez;Sin equipo;Centrocampistas
+de-paul;Rodrigo De Paul;Atletico de Madrid;Centrocampistas
+riquelme;Rodrigo Riquelme;Atletico de Madrid;Centrocampistas
+ruben-garcia;Ruben Garcia;CA Osasuna;Centrocampistas
+ruben-vargas;Ruben Vargas;Sevilla FC;Centrocampistas
+sanchez-1;Salvi Sanchez;Sin equipo;Centrocampistas
+samuel-lino;Samuel Dias Lino;Atletico de Madrid;Centrocampistas
+samu-3;Samuel de Almeida Costa;RCD Mallorca;Centrocampistas
+santi-c-v;Santi Comesana;Villarreal CF;Centrocampistas
+saul-1;Saul Niguez;Sevilla FC;Centrocampistas
+selim-amallah;Selim Amallah;Real Valladolid CF;Centrocampistas
+silvi-clua;Selvi Clua;UD Almeria;Centrocampistas
+sergi-altimira;Sergi Altimira;Real Betis;Centrocampistas
+sergi-canos;Sergi Canos;Valencia CF;Centrocampistas
+s-darder;Sergi Darder;RCD Mallorca;Centrocampistas
+sergio-gomez;Sergio Gomez;Real Sociedad;Centrocampistas
+sergio-vieira;Sergio Viera;UD Las Palmas;Centrocampistas
+seydouba-cisse;Seydouba Cisse;CD Leganes;Centrocampistas
+stanis-idumbo-muzambo;Stanis Idumbo Muzambo;Sevilla FC;Centrocampistas
+stanko-juric;Stanko Juric;Real Valladolid CF;Centrocampistas
+stefan-bajcetic;Stefan Bajcetic;UD Las Palmas;Centrocampistas
+suso;Jesus Joaquin Fernandez Saenz de la Torre;Sevilla FC;Centrocampistas
+tajon-buchanan;Tajon Buchanan;Villarreal CF;Centrocampistas
+tamas-nikitscher;Tamas Nikitscher;Real Valladolid CF;Centrocampistas
+thiago-ojeda;Thiago Ojeda;Villarreal CF;Centrocampistas
+lemar;Thomas Lemar;Atletico de Madrid;Centrocampistas
+toni-villa;Laureano Antonio Villa Suarez;SD Eibar;Centrocampistas
+unai-gomez;Unai Gomez;Athletic Club;Centrocampistas
+unai-lopez;Unai Lopez;Rayo Vallecano;Centrocampistas
+gonzalez-de-zarate;Urko Gonzalez;RCD Espanyol de Barcelona;Centrocampistas
+viti;Viti Rozada;UD Las Palmas;Centrocampistas
+v-meseguer;Victor Meseguer;R Racing Club;Centrocampistas
+william-2;William Silva de Carvalho;Real Betis;Centrocampistas
+williot-swedberg;Williot Swedberg;RC Celta;Centrocampistas
+herrera-1;Yangel Herrera;Girona FC;Centrocampistas
+jesus-santiago;Jesus Santiago Perez;Getafe CF;Centrocampistas
+yeremy;Yeremy Pino;Villarreal CF;Centrocampistas
+yvan-neyou;Yvan Neyou;CD Leganes;Centrocampistas
+yaser-asprilla;Yaser Asprilla;Girona FC;Centrocampistas
+alex-b;Alex Baena;Villarreal CF;Centrocampistas
+alejandro-gil;Alex Gil;Sin equipo;Centrocampistas
+a-sola;Alex Sola;Getafe CF;Centrocampistas
+aguado-1;Alvaro Aguado;RCD Espanyol de Barcelona;Centrocampistas
+alvaro-1;Alvaro Garcia;Rayo Vallecano;Centrocampistas
+r-de-galarreta;Inigo Ruiz de Galarreta;Athletic Club;Centrocampistas
+oscar-4;Oscar Rodriguez;CD Leganes;Centrocampistas
+oscar-trejo;Oscar Trejo;Rayo Vallecano;Centrocampistas
+oscar-5;Oscar Valentin;Rayo Vallecano;Centrocampistas
+abdessamad-ezzalzouli;Abde Ezzalzouli;Real Betis;Delanteros
+abderrahman-rebbach;Abde Rebbach;Granada CF;Delanteros
+abdoulaye-keita;Abdoulaye Keita;Getafe CF;Delanteros
+abdon;Abdon Prats;RCD Mallorca;Delanteros
+abel-ruiz;Abel Ruiz;Girona FC;Delanteros
+embarba;Adri Embarba;Rayo Vallecano;Delanteros
+arnu;Adrian Arnu;Real Valladolid CF;Delanteros
+adrian-nino;Adrian Nino;Atletico de Madrid;Delanteros
+malcom-adu-ares;Malcom Abdulai Ares Djalo;Real Zaragoza;Delanteros
+aingeru-olabarrieta;Aingeru Olabarrieta;Athletic Club;Delanteros
+akor-adams;Akor Adams;Sevilla FC;Delanteros
+alberto-mari;Alberto Mari;Real Zaragoza;Delanteros
+alejo-veliz;Alejo Veliz;RCD Espanyol de Barcelona;Delanteros
+alex-almansa;Alex Almansa;RCD Espanyol de Barcelona;Delanteros
+berenguer;Alex Berenguer;Athletic Club;Delanteros
+alex-marchal;Alex Marchal;Real Sociedad;Delanteros
+alexander-sorloth;Alexander Sørloth;Atletico de Madrid;Delanteros
+alfonso-1;Alfon Gonzalez;RC Celta;Delanteros
+amath;Amath Ndiaye;Real Valladolid CF;Delanteros
+barrenetxea;Ander Barrenetxea;Real Sociedad;Delanteros
+ansu-fati;Ansu Fati;FC Barcelona;Delanteros
+budimir;Ante Budimir;CA Osasuna;Delanteros
+griezmann;Antoine Griezmann;Atletico de Madrid;Delanteros
+antoniu-roca;Antoniu Roca;RCD Espanyol de Barcelona;Delanteros
+antony;Antony Matheus dos Santos;Real Betis;Delanteros
+arkaitz-mariezkurrena;Arkaitz Mariezkurrena;Real Sociedad;Delanteros
+arnaut-danjuma;Arnaut Danjuma;Girona FC;Delanteros
+villalibre;Asier Villalibre;Deportivo Alaves;Delanteros
+assane-diao;Assane Diao;Como;Delanteros
+ayoze-perez;Ayoze Perez;Villarreal CF;Delanteros
+bertug-yildirim;Bertug Yildirim;Getafe CF;Delanteros
+bojan-miovski;Bojan Miovski;Girona FC;Delanteros
+b-iglesias;Borja Iglesias;RC Celta;Delanteros
+b-mayoral;Borja Mayoral;Getafe CF;Delanteros
+bryan;Bryan Gil;Girona FC;Delanteros
+bryan-zaragoza;Bryan Zaragoza;CA Osasuna;Delanteros
+c-perez;Carles Perez;Getafe CF;Delanteros
+carlos-lumbreras;Carlos Lumbreras;CA Osasuna;Delanteros
+carlos-martin;Carlos Martin;Deportivo Alaves;Delanteros
+carlos-vicente;Carlos Vicente;Deportivo Alaves;Delanteros
+chidera-ejuke;Chidera Ejuke;Sevilla FC;Delanteros
+chimy-avila;Chimy Avila;Real Betis;Delanteros
+chiquinho-1;Francisco Jorge Tavares Oliveira;RCD Mallorca;Delanteros
+coba-da-costa;Coba da Costa;Getafe CF;Delanteros
+stuani;Cristhian Stuani;Girona FC;Delanteros
+cucho;Cucho Hernandez;Real Betis;Delanteros
+cyle-larin;Cyle Larin;RCD Mallorca;Delanteros
+bakambu;Cedric Bakambu;Real Betis;Delanteros
+dani-gomez-1;Dani Gomez;Real Zaragoza;Delanteros
+dani-raba;Dani Raba;CD Leganes;Delanteros
+daniel-yanez;Daniel Yanez;Real Madrid;Delanteros
+d-machis;Darwin Machis;Real Valladolid CF;Delanteros
+david-otorbi;David Otorbi;Valencia CF;Delanteros
+dawda-camara;Dawda Camara;Girona FC;Delanteros
+diego-garcia-2;Diego Garcia;CD Leganes;Delanteros
+diego-lopez-noguerol;Diego Lopez;Valencia CF;Delanteros
+dodi-lukebakio;Dodi Lukebakio;Sevilla FC;Delanteros
+duk;Luis Henriques de Barros Lopes;CD Leganes;Delanteros
+elias-romero;Elias Romero;UD Las Palmas;Delanteros
+endika-bujan;Endika Bujan;Athletic Club;Delanteros
+endrick;Endrick Felipe Moreira de Sousa;Real Madrid;Delanteros
+etienne-etoo-pineda;Etienne Etoo Pineda;Rayo Vallecano;Delanteros
+etta-eyong;Karl Edouard Blaise Etta Eyong;Villarreal CF;Delanteros
+ferran;Ferran Torres;FC Barcelona;Delanteros
+fabio-silva;Fabio Daniel Soares Silva;UD Las Palmas;Delanteros
+garcia-pascual;Alvaro Miguel Garcia Pascual;Sevilla FC;Delanteros
+gerard;Gerard Moreno;Villarreal CF;Delanteros
+german-valera;German Valera;Elche CF;Delanteros
+giuliano-simeone;Giuliano Simeone;Atletico de Madrid;Delanteros
+gonzalo-garcia-1;Gonzalo Garcia;Real Madrid;Delanteros
+guruzeta;Gorka Guruzeta;Athletic Club;Delanteros
+hugo-duro;Hugo Duro;Valencia CF;Delanteros
+hugo-novoa;Hugo Novoa;Deportivo Alaves;Delanteros
+iago-aspas;Iago Aspas;RC Celta;Delanteros
+iker-almena;Iker Almena;Sin equipo;Delanteros
+iker-benito;Iker Benito;CD Mirandes;Delanteros
+ilias-akhomach;Ilias Akhomach;Villarreal B;Delanteros
+irvin-cardona;Irvin Cardona;Saint-Etienne;Delanteros
+isaac-romero;Isaac Romero;Sevilla FC;Delanteros
+israel-dominguez;Israel Dominguez;Sevilla FC;Delanteros
+williams;Inaki Williams;Athletic Club;Delanteros
+mata;Jaime Mata;UD Las Palmas;Delanteros
+jastin-garcia;Antonino Jastin Garcia Lopez;Girona FC;Delanteros
+javi-llabres;Javi Llabres;CD Eldense;Delanteros
+puado;Javi Puado;RCD Espanyol de Barcelona;Delanteros
+javier-marton;Javier Marton;Albacete BP;Delanteros
+jesus-rodriguez;Jesus Rodriguez;Real Betis;Delanteros
+joaquin-panichelli;Joaquin Panichelli;CD Mirandes;Delanteros
+j-carreras;Jofre Carreras;RCD Espanyol de Barcelona;Delanteros
+jonathan-bamba;Jonathan Bamba;Sin equipo;Delanteros
+jones-el-abdellaoui;Jones El Abdellaoui;RC Celta;Delanteros
+de-frutos-1;Jorge de Frutos;Rayo Vallecano;Delanteros
+jose-arnaiz;Jose Arnaiz;CA Osasuna;Delanteros
+juanmi;Juan Miguel Jimenez Lopez;Getafe CF;Delanteros
+juan-latasa;Juanmi Latasa;Real Valladolid CF;Delanteros
+julen-lartitegi;Julen Lartitegi;Deportivo Alaves;Delanteros
+julian-alvarez;Julian Alvarez;Atletico de Madrid;Delanteros
+kelechi-iheanacho;Kelechi Iheanacho;Sin equipo;Delanteros
+kike-barja;Kike Barja;CA Osasuna;Delanteros
+kike-g;Kike Garcia;Deportivo Alaves;Delanteros
+kim-min-su;Min-Su Kim;Sin equipo;Delanteros
+kylian-mbappe-lottin;Kylian Mbappe;Real Madrid;Delanteros
+lamine-yamal;Lamine Yamal Nasraoui Ebana;FC Barcelona;Delanteros
+leandro-antonetti;Leandro Antonetti;Sevilla FC;Delanteros
+l-rioja;Luis Rioja;Valencia CF;Delanteros
+luka;Luka Romero;Sin equipo;Delanteros
+m-sylla;Mamadou Sylla;Real Valladolid CF;Delanteros
+marc;Marc Cardona;UD Las Palmas;Delanteros
+marc-domenech;Marc Domenech;RCD Mallorca;Delanteros
+marcos-andre;Marcos Andre de Sousa Mendonca;Real Valladolid CF;Delanteros
+maroan-sannadi;Maroan Sannadi;Athletic Club;Delanteros
+martin-cuellar;Martin Cuellar;Getafe CF;Delanteros
+martin-tejon;Martin Tejon;Valencia CF;Delanteros
+mateo-mejia;Mateo Mejia;Sevilla FC;Delanteros
+miguel-2;Miguel de la Fuente;CD Leganes;Delanteros
+oyarzabal;Mikel Oyarzabal;Real Sociedad;Delanteros
+munir;Munir El Haddadi;CD Leganes;Delanteros
+fekir;Nabil Fekir;Sin equipo;Delanteros
+nicolas-serrano;Nico Serrano;Real Sporting;Delanteros
+williams-jr;Nicholas Williams Arthuer;Athletic Club;Delanteros
+nicolas-pepe;Nicolas Pepe;Villarreal CF;Delanteros
+oliver-mcburnie;Oliver McBurnie;UD Las Palmas;Delanteros
+omar-sadik;Omar Sadik;RCD Espanyol de Barcelona;Delanteros
+orri-oskarsson;Orri Oskarsson;Real Sociedad;Delanteros
+pablo-duran;Pablo Duran;RC Celta;Delanteros
+pablo-garcia-5;Pablo Garcia;Real Betis;Delanteros
+papa-dame-ba;Papa Dame Ba;Girona FC;Delanteros
+pau-cabanes-de-la-torre;Pau Cabanes;Deportivo Alaves;Delanteros
+pau-victor;Pau Victor;FC Barcelona;Delanteros
+peque-1;Gerard Fernandez Castellano;Sevilla FC;Delanteros
+peter;Peter Federico Gonzalez Carmona;Getafe CF;Delanteros
+portu;Cristian Portugues Manzanera;Girona FC;Delanteros
+rafa-mir;Rafa Mir;Valencia CF;Delanteros
+raphinha;Raphael Dias Belloli;FC Barcelona;Delanteros
+rayane-belaid;Rayane Belaid;Atletico de Madrid;Delanteros
+raul-4;Raul Garcia;CA Osasuna;Delanteros
+raul-moro;Raul Moro;Real Valladolid CF;Delanteros
+r-d-t;Raul de Tomas;Rayo Vallecano;Delanteros
+robert-lewandowski;Robert Lewandowski;FC Barcelona;Delanteros
+roberto-fernandez-2;Roberto Fernandez;RCD Espanyol de Barcelona;Delanteros
+rodrygo;Rodrygo Silva de Goes;Real Madrid;Delanteros
+sandro;Sandro Ramirez;UD Las Palmas;Delanteros
+sergi-guardiola;Sergi Guardiola;Rayo Vallecano;Delanteros
+camello;Sergio Camello;Rayo Vallecano;Delanteros
+sergio-ruiz-1;Sergio Ruiz;UD Las Palmas;Delanteros
+sheraldo-becker;Sheraldo Becker;Real Sociedad;Delanteros
+stipe-biuk;Stipe Biuk;Sin equipo;Delanteros
+stoichkov;Juan Diego Molina Martinez;Granada CF;Delanteros
+sebastien-haller;Sebastien Haller;Sin equipo;Delanteros
+tadeo-allende;Tadeo Allende;Sin equipo;Delanteros
+take;Takefusa Kubo;Real Sociedad;Delanteros
+takuma-asano;Takuma Asano;RCD Mallorca;Delanteros
+tasos-douvikas;Tasos Douvikas;Como;Delanteros
+thierno-barry-1;Thierno Barry;Villarreal CF;Delanteros
+tomas-conechny;Tomas Conechny;Deportivo Alaves;Delanteros
+toni-fernandez;Toni Fernandez;FC Barcelona;Delanteros
+t-martinez;Toni Martinez;Deportivo Alaves;Delanteros
+sadiq;Umar Sadiq;Valencia CF;Delanteros
+vedat-muriqi;Vedat Muriqi;RCD Mallorca;Delanteros
+viktor-tsygankov;Viktor Tsyhankov;Girona FC;Delanteros
+vini-jr;Vinicius Jose Paixao de Oliveira Junior;Real Madrid;Delanteros
+vitor-roque;Vitor Hugo Roque Ferreira;Real Betis;Delanteros
+victor-munoz;Victor Munoz Villanueva;Real Madrid;Delanteros
+walid-cheddira;Walid Cheddira;RCD Espanyol de Barcelona;Delanteros
+warren-madrigal;Warren Madrigal;Valencia CF;Delanteros
+alvaro-djalo;Alvaro Djalo;Athletic Club;Delanteros
+alvaro-rodriguez-3;Alvaro Rodriguez;Getafe CF;Delanteros
+correa;Angel Correa;Atletico de Madrid;Delanteros
+angel-ortiz;Angel Ortiz;Real Betis;Delanteros
