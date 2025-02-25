@@ -9,30 +9,64 @@ Each file represents a matchday and follows a consistent format for easy process
 ## 📝 Data Format
 Each `.txt` file contains the following columns separated by a delimiter:
 
-- Shots                       
-- Shots on target                          
-- Assists                                  
-- Successful dribbles
-- Failed dribbles
-- Goals
-- Goals from inside the box
-- Goals from outside the box
-- Goals with the left foot
-- Goals with the right foot
-- Penalty goals
-- Header goals
-- Set-piece goals
-- Own goals
-- Minutes played
-- Matches played
-- ETC ...
+ID
+Jugador
+Equipo
+Posicion
+Disparos
+Disparos a puerta
+Asistencias
+Regates con éxito
+Regates fallidos
+Goles
+Goles desde dentro del área
+Goles desde fuera del área
+Goles con la pierna izquierda
+Goles con la pierna derecha
+Goles de penalti
+Goles de cabeza
+Goles a balón parado
+Goles en propia puerta
+ID
+Jugador
+Minutos jugados
+Partidos jugados
+% Partidos jugados
+Partidos completos
+% Partidos completos
+Partidos como titular
+% Partidos como titular
+Partidos sustituido
+% Partidos sustituido
+Tarjetas amarillas
+Tarjetas rojas
+Segundas amarillas
+Goles
+Penaltis recibidos
+Goles en propia puerta
+Goles en contra
+Bloqueos
+Intercepciones
+Recuperaciones
+Despejes
+Entradas con éxito
+Entradas fallidas
+Jugadas como último hombre
+Duelos con éxito
+Duelos fallidos
+Duelos aéreos con éxito
+Duelos aéreos fallidos
+Tarjetas amarillas
+Tarjetas rojas
+Segundas amarillas
+Fueras de juego
+Faltas recibidas
+Faltas cometidas
+Penaltis recibidos
+Penaltis en contra
+Manos
+Faltas por tarjeta
 
-## 📥 Data Insertion Process
-
-1. **Loading the files**: The `.txt` files will be read using `pandas`.
-2. **Data normalization**: The `normalizer.py` script will be used to clean and transform the data.
-3. **Table creation**: The `Create-tables.sql` script will be used to generate the tables in SQL Server.
-4. **Insertion into the database**: The normalized data will be loaded into the database.
 
 ## 📊 Data Analysis with Pandas
 Once the data is in the database, `pandas` will be used to:
