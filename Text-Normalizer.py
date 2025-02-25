@@ -12,7 +12,7 @@ def eliminar_puntuacion(texto):
     return re.sub(r'[^\w\s;-]', '', texto)
 
 # Ruta del directorio de entrada
-directorio_entrada = '/home/siemprearmando/Desktop/data-analysis-la_liga/jornadas/jornada25'
+directorio_entrada = '/home/siemprearmando/Desktop/data-analysis-la_liga/jornadas/jornada27'
 # Ruta del directorio de respaldo
 backup_dir = os.path.join(directorio_entrada, 'backup')
 

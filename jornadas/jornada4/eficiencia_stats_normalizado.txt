@@ -1,0 +1,520 @@
+ID;Jugador;CL;ENT;DUE;D;DA;PC;PCC;PLC;PH;GPT;GPTFA;GPTDA;GCPI;GCPD;CG;GABP
+abdessamad-ezzalzouli;Abde Ezzalzouli;0;9;27;23;4;51;41;0;0;000;000;000;000;000;000;000
+abderrahman-rebbach;Abde Rebbach;2;0;10;7;3;10;8;1;0;000;000;000;000;000;000;000
+abqar;Abdel Abqar;0;5;25;22;3;119;72;11;0;000;000;000;000;000;000;000
+abdul-mumin;Abdul Mumin;0;5;22;10;12;136;99;7;0;000;000;000;000;000;000;000
+abdon;Abdon Prats;0;0;6;1;5;1;1;0;0;000;000;000;000;000;000;000
+abel-bretones;Abel Bretones;0;7;21;17;4;86;55;6;0;100;000;100;100;000;000;000
+abel-ruiz;Abel Ruiz;0;0;23;16;7;74;63;2;0;025;000;025;000;025;000;000
+aboubacar-bassinga;Aboubacar Bassinga;0;0;2;2;0;4;1;1;1;000;000;000;000;000;000;000
+adama-boiro;Adama Boiro;0;2;13;7;6;25;19;0;0;000;000;000;000;000;000;000
+embarba;Adri Embarba;13;7;40;32;8;74;44;4;1;000;000;000;000;000;000;000
+adria-altimira;Adria Alti;0;2;13;9;4;27;21;2;0;000;000;000;000;000;000;000
+pedrosa-1;Adria Pedrosa;0;4;26;18;8;130;99;7;0;000;000;000;000;000;000;000
+adrian-2;Adrian San Miguel del Castillo;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+adrian-pica;Adrian Hernandez Hernandez;0;1;12;5;7;38;27;3;0;000;000;000;000;000;000;000
+a-rodriguez-1;Adrian Rodriguez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+malcom-adu-ares;Malcom Abdulai Ares Djalo;0;0;4;4;0;8;5;0;0;000;000;000;000;000;000;000
+aihen;Aihen Munoz;0;1;6;4;2;1;1;0;0;000;000;000;000;000;000;000
+aimar-1;Aimar Oroz;0;8;42;34;8;114;95;8;0;000;000;000;000;000;000;000
+aitor-fdez;Aitor Fernandez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+aitor-fraga;Aitor Fraga;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+paredes-2;Aitor Paredes;0;0;6;3;3;56;44;5;0;000;000;000;000;000;000;000
+aitor-r;Aitor Ruibal;0;2;18;15;3;40;31;0;0;000;000;000;000;000;000;000
+albert-mboyo-sambi-lokonga;Albert Sambi Lokonga;0;3;12;8;4;104;90;6;0;000;000;000;000;000;000;000
+alberto-collado;Alberto Collado;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alberto-flores;Alberto Flores;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alberto-mari;Alberto Mari;0;0;1;1;0;4;2;0;0;000;000;000;000;000;000;000
+a-moleiro;Alberto Moleiro;0;5;38;34;4;72;63;1;2;013;000;013;013;000;000;000
+alberto-risco;Alberto Risco;0;1;7;5;2;4;2;0;0;000;000;000;000;000;000;000
+alex-balde;Alejandro Balde;0;1;27;22;5;138;124;3;0;000;000;000;000;000;000;000
+catena;Alejandro Catena;0;5;24;12;12;185;140;18;0;000;000;000;000;000;000;000
+a-frances;Alejandro Frances;0;7;18;18;0;114;93;7;0;000;000;000;000;000;000;000
+alejandro-iturbe;Alejandro Iturbe;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alejo-veliz;Alejo Veliz;0;1;47;21;26;55;39;1;0;011;000;011;000;011;000;000
+sedlar;Aleksandar Sedlar;0;8;18;15;3;51;31;4;0;000;000;000;000;000;000;000
+berenguer;Alex Berenguer;8;4;28;22;6;46;33;1;0;000;000;000;000;000;000;000
+alex-kral;Alex Kral;0;8;26;23;3;110;80;5;0;000;000;000;000;000;000;000
+alexander-sorloth;Alexander Sørloth;0;1;25;10;15;36;22;0;0;014;000;014;000;000;014;000
+alfonso-1;Alfon Gonzalez;0;1;21;20;1;26;20;0;0;000;000;000;000;000;000;000
+a-espino;Alfonso Espino;0;16;61;52;9;84;49;5;0;000;000;000;000;000;000;000
+ali-fadal;Ali Fadal;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alvaro-abajas;Alvin Abajas;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+amath;Amath Ndiaye;0;0;10;9;1;37;28;2;0;000;000;000;000;000;000;000
+ander-astralaga;Ander Astralaga;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+barrenetxea;Ander Barrenetxea;0;0;14;10;4;23;14;2;0;000;000;000;000;000;000;000
+guevara;Ander Guevara;0;7;29;25;4;124;95;4;0;000;000;000;000;000;000;000
+ander;Ander Herrera;0;3;17;16;1;100;86;3;0;000;000;000;000;000;000;000
+gorosabel;Andoni Gorosabel;0;1;6;6;0;20;16;0;0;000;000;000;000;000;000;000
+andreas-christensen;Andreas Christensen;0;0;2;1;1;16;14;0;0;000;000;000;000;000;000;000
+andrei;Andrei Ratiu;0;2;15;11;4;35;24;1;1;000;000;000;000;000;000;000
+lunin;Andrii Lunin;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+andre-almeida-1;Domingos Andre Ribeiro Almeida;3;7;25;23;2;128;110;5;0;000;000;000;000;000;000;000
+andre-ferreira;Andre Filipe Magalhaes Ribeiro Ferreira;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+andres-cuenca;Andres Cuenca;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+budimir;Ante Budimir;0;5;53;24;29;52;31;0;0;000;000;000;000;000;000;000
+griezmann;Antoine Griezmann;6;1;17;14;3;128;94;8;1;033;033;000;033;000;000;033
+antonio-blanco;Antonio Blanco;0;4;27;24;3;109;80;7;3;000;000;000;000;000;000;000
+antonio-espigares;Antonio Espigares;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+antonio-gomis;Antonio Gomis;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+a-raillo;Antonio Raillo;0;3;33;10;23;203;170;13;0;000;000;000;000;000;000;000
+antonio-rudiger;Antonio Rudiger;0;2;24;9;15;292;249;19;0;000;000;000;000;000;000;000
+sivera;Antonio Sivera;0;0;0;0;0;116;26;35;0;000;000;000;000;000;000;000
+sanchez;Antonio Sanchez;0;5;13;13;0;44;30;1;0;000;000;000;000;000;000;000
+antoniu-roca;Antoniu Roca;0;1;7;7;0;6;4;0;0;000;000;000;000;000;000;000
+egoitz-arana;Egoitz Arana Aizpurua;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+arda-guler;Arda Guler;3;3;15;14;1;56;47;0;1;000;000;000;000;000;000;000
+aridane-1;Aridane Hernandez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+arambarri-1;Aritz Arambarri;0;1;15;1;14;67;48;1;0;000;000;000;000;000;000;000
+aritz;Aritz Elustondo;0;2;12;9;3;138;115;6;0;000;000;000;000;000;000;000
+arnau-1;Arnau Martinez;0;6;12;10;2;170;152;6;1;000;000;000;000;000;000;000
+arnau-rafus;Arnau Rafus;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+arnau-sola;Arnau Sola;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+arnaut-danjuma;Arnaut Danjuma;0;2;11;9;2;30;22;1;0;050;000;050;025;025;000;000
+arthur-vermeeren;Arthur Vermeeren;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+villalibre;Asier Villalibre;0;0;7;5;2;6;3;2;0;033;000;033;033;000;000;000
+assane-diao;Assane Diao;0;0;3;2;1;3;2;0;0;000;000;000;000;000;000;000
+augusto-batalla;Augusto Batalla;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+aurelien-tchouameni;Aurelien Tchouameni;0;11;40;28;12;297;263;15;0;000;000;000;000;000;000;000
+axel-witsel;Axel Witsel;0;1;8;3;5;106;97;2;0;000;000;000;000;000;000;000
+ayoze-perez;Ayoze Perez;0;3;27;22;5;40;29;1;1;033;017;017;017;017;000;000
+b-ramirez;Benito Ramirez;0;1;9;7;2;12;9;1;0;000;000;000;000;000;000;000
+bertug-yildirim;Bertug Yildirim;0;1;9;3;6;9;6;0;0;000;000;000;000;000;000;000
+benat-prados;Benat Prados;0;4;32;22;10;140;116;1;2;050;000;050;000;000;050;000
+benat-turrientes;Benat Turrientes;7;7;30;22;8;91;77;4;0;000;000;000;000;000;000;000
+bojan-miovski;Bojan Miovski;0;1;5;5;0;15;14;0;0;000;000;000;000;000;000;000
+b-iglesias;Borja Iglesias;0;1;14;11;3;36;27;1;1;067;000;067;033;033;000;000
+brahim;Brahim Diaz;0;2;20;19;1;56;47;1;2;100;000;100;100;000;000;000
+brais-mendez;Brais Mendez;1;4;50;43;7;118;90;3;0;017;000;017;000;017;000;000
+b-olivan;Brian Olivan;4;3;7;5;2;28;20;1;0;000;000;000;000;000;000;000
+bryan;Bryan Gil;0;12;55;54;1;115;101;2;0;011;000;011;011;000;000;000
+bryan-zaragoza;Bryan Zaragoza;2;3;32;30;2;56;36;5;1;000;000;000;000;000;000;000
+carl-starfelt;Carl Starfelt;0;1;11;3;8;152;147;1;0;050;000;050;000;000;050;000
+alena;Carles Alena;1;4;24;16;8;39;26;4;0;000;000;000;000;000;000;000
+c-perez;Carles Perez;0;3;29;25;4;37;20;1;0;000;000;000;000;000;000;000
+carlos-benavidez;Carlos Benavidez;0;2;11;8;3;28;18;2;1;000;000;000;000;000;000;000
+c-dominguez;Carlos Dominguez;0;6;20;10;10;192;160;10;0;000;000;000;000;000;000;000
+carlos-guirao;Carlos Guirao;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+carlos-martin;Carlos Martin;0;1;8;7;1;8;6;0;0;000;000;000;000;000;000;000
+carlos-romero;Carlos Romero;5;9;32;28;4;107;78;1;0;100;000;100;100;000;000;000
+carlos-vicente;Carlos Vicente;13;5;30;26;4;91;64;3;0;025;000;025;025;000;000;000
+catala;Jose Luis Catala Vazquez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+cenk-ozkacar;Cenk Ozkacar;0;0;0;0;0;2;1;0;0;000;000;000;000;000;000;000
+chidera-ejuke;Chidera Ejuke;10;1;28;27;1;104;84;2;0;000;000;000;000;000;000;000
+chimy-avila;Chimy Avila;0;0;5;4;1;16;14;0;0;000;000;000;000;000;000;000
+christantus-uche;Christantus Uche;0;4;51;33;18;46;31;0;0;050;000;050;000;000;050;000
+ivan-cantalejo;Ivan Cantalejo;0;1;4;4;0;3;3;0;0;000;000;000;000;000;000;000
+lenglet;Clement Lenglet;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+coba-da-costa;Coba da Costa;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+conor-gallagher;Conor Gallagher;0;3;16;15;1;32;23;0;0;000;000;000;000;000;000;000
+copete;Jose Manuel Arias Copete;0;1;2;2;0;2;1;1;0;000;000;000;000;000;000;000
+cristhian-mosquera;Cristhian Mosquera;0;2;19;11;8;242;211;11;0;000;000;000;000;000;000;000
+stuani;Cristhian Stuani;0;0;1;0;1;6;4;0;0;100;000;100;000;100;000;000
+cyle-larin;Cyle Larin;0;2;19;16;3;28;21;1;0;000;000;000;000;000;000;000
+cesar-azpilicueta;Cesar Azpilicueta;0;5;25;16;9;217;188;7;0;000;000;000;000;000;000;000
+cesar-gonzalez;Cesar Fernandez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+cesar-tarrega;Cesar Tarrega;0;1;16;7;9;103;88;4;0;000;000;000;000;000;000;000
+c-de-la-hoz;Cesar de la Hoz;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+daley-blind;Daley Blind;0;5;22;18;4;361;313;24;0;000;000;000;000;000;000;000
+daley-sinkgraven;Daley Sinkgraven;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+damian-rodriguez;Damian Rodriguez;10;2;21;18;3;214;186;10;0;000;000;000;000;000;000;000
+carvajal;Dani Carvajal;0;5;22;18;4;182;151;7;0;000;000;000;000;000;000;000
+d-ceballos;Dani Ceballos;1;4;13;13;0;61;54;0;0;000;000;000;000;000;000;000
+cardenas;Dani Cardenas;0;0;1;0;1;89;23;21;0;000;000;000;000;000;000;000
+dani-gomez-1;Dani Gomez;0;1;4;2;2;9;6;0;0;000;000;000;000;000;000;000
+dani-olmo;Dani Olmo;0;1;18;16;2;58;49;2;3;029;000;029;014;014;000;000
+parejo;Dani Parejo;1;6;18;15;3;143;121;9;0;050;000;050;050;000;000;000
+dani-raba;Dani Raba;0;6;22;20;2;32;19;3;0;000;000;000;000;000;000;000
+dani-rodriguez;Dani Rodriguez;13;10;27;22;5;75;53;7;3;025;000;025;000;000;025;000
+vivian;Dani Vivian;0;3;24;12;12;224;191;10;1;000;000;000;000;000;000;000
+daniel-luna;Daniel Luna;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+daniel-requena;Daniel Requena;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+darko;Darko Brasanac;0;4;27;17;10;89;58;4;0;000;000;000;000;000;000;000
+d-machis;Darwin Machis;1;0;1;1;0;10;5;0;0;000;000;000;000;000;000;000
+david-lopez;David Lopez;0;3;15;8;7;314;284;13;0;000;000;000;000;000;000;000
+david-otorbi;David Otorbi;0;0;0;0;0;4;2;0;0;000;000;000;000;000;000;000
+david-soria;David Soria;0;0;1;0;1;56;16;10;0;000;000;000;000;000;000;000
+david-torres-1;David Torres;0;0;0;0;0;2;1;0;0;000;000;000;000;000;000;000
+diego-conde;Diego Conde;0;0;2;2;0;102;56;19;0;000;000;000;000;000;000;000
+diego-ferrer;Diego Ferrer;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+diego-garcia-2;Diego Garcia;0;0;20;6;14;19;10;1;0;000;000;000;000;000;000;000
+llorente-r;Diego Llorente;0;2;11;8;3;141;109;9;0;000;000;000;000;000;000;000
+diego-lopez-noguerol;Diego Lopez;0;2;29;22;7;101;77;4;0;100;000;100;000;000;100;000
+rico;Diego Rico;0;13;24;20;4;89;48;7;0;000;000;000;000;000;000;000
+foulquier;Dimitri Foulquier;0;5;17;16;1;79;50;6;0;000;000;000;000;000;000;000
+dimitrios-stamatakis;Dimitrios Stamatakis;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+dinko-horkas;Dinko Horkas;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+djene;Djene Dakonam;0;0;13;4;9;81;54;8;0;000;000;000;000;000;000;000
+djibril-sow;Djibril Sow;0;4;20;16;4;101;88;3;0;000;000;000;000;000;000;000
+dodi-lukebakio;Dodi Lukebakio;8;2;30;30;0;58;48;2;0;013;000;013;000;013;000;000
+domingos-d;Domingos de Sousa Coutinho Meneses Duarte;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+dominik-greif;Dominik Greif;0;0;0;0;0;68;23;15;0;000;000;000;000;000;000;000
+donny-van-de-beek;Donny van de Beek;0;0;2;2;0;3;1;0;0;000;000;000;000;000;000;000
+endrick;Endrick Felipe Moreira de Sousa;0;0;2;2;0;2;1;0;0;025;000;025;000;025;000;000
+eneko-ortiz;Eneko Ortiz;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+franquesa;Enric Franquesa;0;8;25;19;6;43;33;1;0;100;000;100;100;000;000;000
+enzo-barrenechea;Enzo Barrenechea;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+boyomo;Enzo Boyomo;0;6;18;10;8;190;171;3;0;000;000;000;000;000;000;000
+loiodice;Enzo Loiodice;5;2;12;9;3;97;76;3;0;000;000;000;000;000;000;000
+eray-ervin-cumart;Eray Comert;0;3;15;8;7;102;79;8;0;000;000;000;000;000;000;000
+eric-bailly;Eric Bailly;0;2;10;7;3;137;113;6;0;000;000;000;000;000;000;000
+eric-garcia;Eric Garcia;0;3;10;5;5;29;27;0;0;000;000;000;000;000;000;000
+etienne-etoo-pineda;Etienne Etoo Pineda;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+etta-eyong;Etta Eyong;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+fabio;Fabio Gonzalez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+valverde-1;Federico Valverde;0;8;27;23;4;259;222;11;1;017;017;000;000;017;000;017
+f-mendy;Ferland Mendy;0;5;15;13;2;131;119;6;0;000;000;000;000;000;000;000
+fermin-lopez;Fermin Lopez;0;2;12;11;1;24;22;2;0;000;000;000;000;000;000;000
+calero;Fernando Calero;0;3;9;7;2;101;71;14;0;000;000;000;000;000;000;000
+pacheco-2;Fernando Pacheco;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+ferran;Ferran Torres;4;0;9;8;1;52;40;1;0;025;000;025;000;025;000;000
+lejeune;Florian Lejeune;0;8;38;16;22;142;92;13;0;000;000;000;000;000;000;000
+fran-beltran;Fran Beltran;0;5;19;16;3;130;115;7;1;050;050;000;000;050;000;000
+fran-garcia-1;Fran Garcia;0;4;11;9;2;102;92;4;0;000;000;000;000;000;000;000
+francisco-gonzalez;Francisco Javier Gonzalez Perez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+f-vieites;Francisco Barbosa Vieites;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+gabriel-misehouy;Gabriel Misehouy;1;0;0;0;0;6;6;0;0;100;000;100;000;100;000;000
+gumbau;Gerard Gumbau;0;3;13;8;5;13;7;0;0;000;000;000;000;000;000;000
+gerard-2;Gerard Martin;0;0;5;4;1;56;45;2;0;000;000;000;000;000;000;000
+gerard;Gerard Moreno;0;2;10;8;2;47;35;3;0;000;000;000;000;000;000;000
+giorgi-mamardashvili;Giorgi Mamardashvili;0;0;3;1;2;116;57;23;0;000;000;000;000;000;000;000
+giuliano-simeone;Giuliano Simeone;0;0;3;3;0;2;1;0;1;000;000;000;000;000;000;000
+gonzalo-montiel;Gonzalo Montiel;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+guruzeta;Gorka Guruzeta;0;2;31;18;13;56;43;1;0;000;000;000;000;000;000;000
+gorka-rivera;Gorka Rivera;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+hamari-traore;Hamari Traore;0;11;35;24;11;154;118;9;0;000;000;000;000;000;000;000
+horatiu-moldovan;Horatiu Moldovan;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+hugo-duro;Hugo Duro;0;3;42;19;23;53;36;0;0;022;000;022;011;000;011;000
+hugo-g;Hugo Guillamon;0;3;14;9;5;79;59;4;0;000;000;000;000;000;000;000
+hugo-novoa;Hugo Novoa;0;1;16;8;8;28;21;1;0;000;000;000;000;000;000;000
+hugo-sotelo;Hugo Sotelo;0;0;1;1;0;15;8;2;0;000;000;000;000;000;000;000
+hugo-alvarez-1;Hugo Alvarez;1;7;33;31;2;150;118;4;0;000;000;000;000;000;000;000
+hector-bellerin;Hector Bellerin;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+hector-fort;Hector Fort;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+iago-aspas;Iago Aspas;1;1;23;20;3;105;75;10;5;029;014;014;029;000;000;000
+zubeldia;Igor Zubeldia;0;1;11;5;6;76;62;3;0;000;000;000;000;000;000;000
+iker-almena;Iker Almena;0;0;5;5;0;26;21;0;0;000;000;000;000;000;000;000
+iker-benito;Iker Benito;0;0;5;4;1;11;9;0;0;000;000;000;000;000;000;000
+iker-cordoba;Iker Cordoba;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+losada;Iker Losada;0;0;1;1;0;4;3;0;0;000;000;000;000;000;000;000
+iker-munoz;Iker Munoz;0;0;4;1;3;28;18;1;0;000;000;000;000;000;000;000
+iker-alvarez;Iker Alvarez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+ilaix;Ilaix Moriba;0;5;26;20;6;89;75;5;0;000;000;000;000;000;000;000
+ilias-akhomach;Ilias Akhomach;2;4;30;27;3;30;21;2;0;000;000;000;000;000;000;000
+ilias-kostis;Ilias Kostis;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+irvin-cardona;Irvin Cardona;0;1;14;9;5;30;18;1;0;000;000;000;000;000;000;000
+isaac-romero;Isaac Romero;0;1;34;22;12;49;37;2;1;000;000;000;000;000;000;000
+isi-2;Isi Palazon;5;2;31;27;4;52;38;4;1;000;000;000;000;000;000;000
+balliu;Ivan Balliu;0;5;29;19;10;59;34;2;0;000;000;000;000;000;000;000
+cuellar;Ivan Cuellar;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+ivan-gil;Ivan Gil;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+ivan-martin;Ivan Martin;0;4;23;22;1;181;159;1;0;100;000;100;000;100;000;000
+i-sanchez;Ivan Sanchez Aguayo;1;4;27;25;2;60;46;9;1;000;000;000;000;000;000;000
+ivan-villar;Ivan Villar;0;0;2;0;2;102;75;5;0;000;000;000;000;000;000;000
+inaki-pena;Ignacio Pena Sotorres;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+williams;Inaki Williams;0;2;45;29;16;85;53;1;1;000;000;000;000;000;000;000
+i-martinez;Inigo Martinez;0;4;30;12;18;338;297;11;0;000;000;000;000;000;000;000
+jackson-porozo;Jackson Porozo;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+jacobo-ramon;Jacobo Ramon;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+jailson;Jailson Marques Siqueira;0;3;24;11;13;230;198;4;0;000;000;000;000;000;000;000
+mata;Jaime Mata;0;1;18;12;6;38;25;3;0;000;000;000;000;000;000;000
+oblak;Jan Oblak;0;0;0;0;0;56;45;5;0;000;000;000;000;000;000;000
+jan-salas;Jan Salas;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+cillessen;Jasper Cillessen;0;0;0;0;0;123;78;14;0;000;000;000;000;000;000;000
+javi-galan;Javi Galan;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+javier-guerra;Javi Guerra;0;4;14;13;1;70;59;4;0;000;000;000;000;000;000;000
+javi-hdez;Javi Hernandez;0;5;34;26;8;119;90;6;1;000;000;000;000;000;000;000
+javi-lopez-4;Javi Lopez;0;6;28;25;3;110;93;6;0;000;000;000;000;000;000;000
+javi-martinez-2;Javi Martinez;0;0;0;0;0;9;9;0;0;000;000;000;000;000;000;000
+javi-munoz;Javi Munoz;0;6;29;24;5;207;164;9;2;000;000;000;000;000;000;000
+puado;Javi Puado;0;3;22;17;5;81;60;2;2;000;000;000;000;000;000;000
+javi-sanchez-1;Javi Sanchez de Felipe;0;2;17;5;12;147;115;15;0;000;000;000;000;000;000;000
+manquillo;Javier Manquillo;0;1;3;3;0;87;80;1;0;000;000;000;000;000;000;000
+javier-marton;Javier Marton;0;0;2;0;2;4;3;0;0;000;000;000;000;000;000;000
+javier-rodriguez-1;Javier Rodriguez;0;2;11;5;6;151;117;11;1;000;000;000;000;000;000;000
+areso;Jesus Areso;0;4;27;22;5;123;101;3;0;000;000;000;000;000;000;000
+j-navas;Jesus Navas;0;1;3;3;0;33;30;0;0;000;000;000;000;000;000;000
+jesus-owono;Jesus Owono;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+vallejo;Jesus Vallejo;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+j-vazquez-1;Jesus Vazquez;0;11;45;39;6;109;82;1;0;000;000;000;000;000;000;000
+jhon-solis;Jhon Solis;0;0;7;4;3;69;61;1;0;000;000;000;000;000;000;000
+jiri-letacek;Jiri Letacek;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+j-garcia;Joan Garcia;0;0;3;1;2;129;65;24;0;000;000;000;000;000;000;000
+joaquin-panichelli;Joaquin Panichelli;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+casals;Joel Roca;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+j-carreras;Jofre Carreras;0;2;19;19;0;39;29;2;1;000;000;000;000;000;000;000
+j-mojica;Johan Mojica;0;3;27;25;2;127;90;10;0;000;000;000;000;000;000;000
+j-patrick;John Patrick;0;0;3;2;1;5;4;0;0;000;000;000;000;000;000;000
+joao-cardoso;Johnny Cardoso;0;2;8;7;1;36;31;2;0;000;000;000;000;000;000;000
+jon-aramburu;Jon Aramburu;0;3;17;11;6;35;20;1;0;000;000;000;000;000;000;000
+guridi;Jon Guridi;0;6;27;18;9;84;65;3;1;000;000;000;000;000;000;000
+jon-magunacelaya;Jon Magunazelaia;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+jon-martin;Jon Martin;0;0;16;6;10;30;18;2;0;000;000;000;000;000;000;000
+moncayola;Jon Moncayola;9;12;27;21;6;104;77;2;0;000;000;000;000;000;000;000
+jon-ander-olasagasti;Jon Olasagasti;0;1;3;3;0;16;14;0;0;000;000;000;000;000;000;000
+pacheco-3;Jon Pacheco;0;3;24;14;10;200;161;11;0;000;000;000;000;000;000;000
+jonathan-bamba;Jonathan Bamba;0;2;17;15;2;68;55;2;2;000;000;000;000;000;000;000
+herrando;Jorge Herrando;0;1;11;3;8;129;92;3;0;000;000;000;000;000;000;000
+jorge-saenz;Jorge Saenz;0;2;15;4;11;131;107;7;0;000;000;000;000;000;000;000
+de-frutos-1;Jorge de Frutos;0;6;37;34;3;59;40;1;0;100;000;100;000;100;000;000
+aidoo-jr;Joseph Aidoo;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+jose-arnaiz;Jose Arnaiz;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+j-g-campana;Jose Angel Gomez Campana;4;1;12;10;2;123;105;8;0;000;000;000;000;000;000;000
+j-m-gimenez;Jose Gimenez;0;1;12;7;5;186;154;20;0;000;000;000;000;000;000;000
+gragera;Jose Gragera;0;10;37;31;6;96;83;0;0;000;000;000;000;000;000;000
+jose-angel-carmona;Jose Angel Carmona;0;10;35;27;8;199;168;4;0;000;000;000;000;000;000;000
+joao-urbaez;Joao Urbaez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+juan-bernat;Juan Bernat;0;1;2;2;0;3;2;0;0;000;000;000;000;000;000;000
+j-berrocal;Juan Berrocal;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+juan-carlos-1;Juan Carlos Martin Corral;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+juan-cruz;Juan Cruz;7;1;18;16;2;62;41;1;2;050;025;025;050;000;000;000
+juan-cruz-1;Juan Cruz Alvaro Armada;0;1;4;4;0;49;40;2;0;000;000;000;000;000;000;000
+juan-herzog;Juan Herzog;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+iglesias;Juan Iglesias;0;11;41;31;10;76;34;8;0;000;000;000;000;000;000;000
+juan-musso;Juan Musso;0;0;1;0;1;23;17;1;0;000;000;000;000;000;000;000
+juan-soriano;Juan Soriano;0;1;3;3;0;114;28;21;0;000;000;000;000;000;000;000
+juanlu-1;Juanlu Sanchez;0;3;11;10;1;60;49;1;0;050;000;050;000;050;000;000
+juanmi;Juan Miguel Jimenez Lopez;0;4;23;19;4;30;21;1;0;000;000;000;000;000;000;000
+juan-latasa;Juanmi Latasa;0;0;17;8;9;12;7;0;0;000;000;000;000;000;000;000
+juanpe-rl;Juan Pedro Ramirez Lopez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+jude-bellingham;Jude Bellingham;0;6;15;12;3;72;60;2;1;000;000;000;000;000;000;000
+julen-agirrezabala;Julen Agirrezabala;0;0;1;1;0;53;30;9;0;000;000;000;000;000;000;000
+julen-lartitegi;Julen Lartitegi;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+kounde;Jules Kounde;0;9;32;24;8;233;194;10;2;050;000;050;000;050;000;000
+julian-alvarez;Julian Alvarez;0;2;7;4;3;49;35;2;0;000;000;000;000;000;000;000
+julian-chicco;Julian Chicco;0;6;15;13;2;24;20;0;0;000;000;000;000;000;000;000
+karl-hein;Karl Hein;0;0;0;0;0;122;59;22;0;000;000;000;000;000;000;000
+kelechi-iheanacho;Kelechi Iheanacho;0;0;2;1;1;10;8;0;0;000;000;000;000;000;000;000
+kike-g;Kike Garcia;0;2;38;18;20;39;27;3;1;017;000;017;000;000;017;000
+kike-1;Kike Perez;2;9;47;41;6;144;119;10;0;000;000;000;000;000;000;000
+kike-salas;Kike Salas;0;1;8;2;6;83;65;2;0;000;000;000;000;000;000;000
+kiko-femenia;Kiko Femenia;0;4;22;18;4;214;184;11;0;000;000;000;000;000;000;000
+kirian;Kirian Rodriguez;0;6;31;27;4;280;229;13;1;000;000;000;000;000;000;000
+koke-5;Jorge Iglesias Gonzalez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+koke;Jorge Resurreccion Merodio;1;9;27;24;3;213;179;13;0;050;000;050;000;050;000;000
+kylian-mbappe-lottin;Kylian Mbappe;1;0;33;32;1;104;82;6;0;013;000;013;006;006;000;000
+ladislav-krejci-ii;Ladislav Krejci;0;0;0;0;0;11;11;0;0;000;000;000;000;000;000;000
+gonzalo-aguilar;Lalo Aguilar;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+lamine-yamal;Lamine Yamal Nasraoui Ebana;0;8;61;60;1;177;140;3;3;017;017;000;017;000;000;000
+cabrera;Leandro Cabrera;0;3;15;4;11;129;84;8;0;000;000;000;000;000;000;000
+leo-1;Leo Roman;0;0;0;0;0;22;10;6;0;000;000;000;000;000;000;000
+logan-costa;Logan Evans Costa;0;0;6;0;6;68;57;4;0;000;000;000;000;000;000;000
+loic-bade;Loic Bade;0;5;24;15;9;206;172;9;1;000;000;000;000;000;000;000
+lucas-alcazar-moreno;Lucas Alcazar;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+l-ocampos;Lucas Ocampos;1;3;25;18;7;82;56;4;0;000;000;000;000;000;000;000
+lucas-rosa;Lucas Oliveira Rosa;0;13;30;28;2;126;101;3;1;000;000;000;000;000;000;000
+torro;Lucas Torro;0;8;51;32;19;199;146;11;0;000;000;000;000;000;000;000
+lucas-v;Lucas Vazquez;0;2;14;14;0;46;40;1;0;000;000;000;000;000;000;000
+lucien-agoume;Lucien Agoume;0;6;29;20;9;167;139;2;1;000;000;000;000;000;000;000
+l-milla;Luis Milla;11;8;48;29;19;108;67;8;0;000;000;000;000;000;000;000
+l-perez;Luis Perez;0;3;22;16;6;130;98;6;1;000;000;000;000;000;000;000
+l-rioja;Luis Rioja;3;5;32;29;3;64;49;1;0;000;000;000;000;000;000;000
+luiz-junior-1;Luiz Lucio Reis Junior;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+modric;Luka Modric;10;2;12;9;3;136;111;6;0;000;000;000;000;000;000;000
+luka;Luka Romero;0;2;15;11;4;18;13;0;0;000;000;000;000;000;000;000
+luka-sucic;Luka Sucic;0;1;2;1;1;9;6;1;0;000;000;000;000;000;000;000
+m-sylla;Mamadou Sylla;0;0;9;3;6;23;15;0;0;000;000;000;000;000;000;000
+manu-fuster;Manu Fuster;5;1;13;12;1;53;45;0;1;000;000;000;000;000;000;000
+manu-gonzalez;Manu Gonzalez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+morlanes;Manu Morlanes;1;5;23;14;9;114;100;5;0;000;000;000;000;000;000;000
+m-sanchez;Manu Sanchez;0;4;13;11;2;65;39;3;0;000;000;000;000;000;000;000
+marash-kumbulla;Marash Kumbulla;0;7;25;19;6;114;91;9;0;000;000;000;000;000;000;000
+bartra;Marc Bartra;0;2;12;5;7;102;75;10;1;100;000;100;000;000;100;000
+marc-bernal;Marc Bernal;0;8;28;21;7;160;139;9;0;000;000;000;000;000;000;000
+marc;Marc Cardona;0;0;2;2;0;6;4;0;0;000;000;000;000;000;000;000
+marc-casado;Marc Casado;0;4;15;15;0;126;110;5;0;000;000;000;000;000;000;000
+marc-domenech;Marc Domenech;0;0;16;7;9;16;12;0;0;000;000;000;000;000;000;000
+marc-roca;Marc Roca;0;8;21;19;2;123;101;6;0;000;000;000;000;000;000;000
+marc-vidal;Marc Vidal;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+ter-stegen;Marc-Andre ter Stegen;0;0;2;1;1;116;89;13;0;000;000;000;000;000;000;000
+marco-de-las-sias;Marco de Las Sias;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+marcos-andre;Marcos Andre de Sousa Mendonca;0;0;24;16;8;19;12;1;0;000;000;000;000;000;000;000
+m-llorente;Marcos Llorente;0;10;27;23;4;140;115;4;0;100;050;050;000;100;000;000
+marcao;Marcos do Nascimento Teixeira;0;3;14;10;4;105;91;0;0;000;000;000;000;000;000;000
+mario-martin;Mario Martin;0;1;12;10;2;18;15;2;0;000;000;000;000;000;000;000
+dmitrovic;Marko Dmitrovic;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+valjent;Martin Valjent;0;1;13;6;7;168;126;19;0;000;000;000;000;000;000;000
+martin-tejon;Martin Tejon;0;2;11;10;1;21;17;0;0;000;000;000;000;000;000;000
+zubimendi;Martin Zubimendi;0;2;28;14;14;176;142;7;0;033;000;033;033;000;000;000
+marvin-1;Marvin Olawale Akinlabi Park;0;8;31;28;3;83;59;6;0;000;000;000;000;000;000;000
+mateu-morey;Mateu Morey;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+matias-arbol;Matias Arbol;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+m-arambarri;Mauro Arambarri;1;0;8;3;5;30;16;3;0;000;000;000;000;000;000;000
+miguel-3;Miguel Gutierrez;0;9;35;31;4;159;139;5;1;000;000;000;000;000;000;000
+miguel-2;Miguel de la Fuente;0;0;32;20;12;35;18;1;0;000;000;000;000;000;000;000
+m-morro;Miguel Angel Morro;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+mika-marmol;Mika Marmol;0;7;24;18;6;216;180;6;0;000;000;000;000;000;000;000
+mikel-jauregizar;Mikel Jauregizar;5;5;16;12;4;70;59;5;1;000;000;000;000;000;000;000
+oyarzabal;Mikel Oyarzabal;0;0;15;7;8;30;20;0;0;000;000;000;000;000;000;000
+vesga;Mikel Vesga;0;4;16;15;1;83;56;6;0;000;000;000;000;000;000;000
+moi-gomez;Moi Gomez;1;6;24;19;5;104;85;5;0;000;000;000;000;000;000;000
+moussa-diarra-1;Moussa Diarra;0;2;11;9;2;41;31;1;0;000;000;000;000;000;000;000
+munir;Munir El Haddadi;0;0;6;2;4;11;9;0;0;000;000;000;000;000;000;000
+nabil-aberdin;Nabil Aberdin;0;5;30;18;12;47;25;5;0;000;000;000;000;000;000;000
+fekir;Nabil Fekir;8;3;26;24;2;72;60;2;1;000;000;000;000;000;000;000
+nacho-vidal;Nacho Vidal;0;2;9;6;3;31;24;1;0;000;000;000;000;000;000;000
+naci-unuvar;Naci Unuvar;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+nahuel-molina;Nahuel Molina;0;2;6;4;2;55;43;0;0;000;000;000;000;000;000;000
+nahuel-tenaglia;Nahuel Tenaglia;0;7;29;20;9;60;37;3;0;000;000;000;000;000;000;000
+natan;Natan Bernardo de Souza;0;1;6;1;5;27;23;0;0;000;000;000;000;000;000;000
+gudelj;Nemanja Gudelj;0;1;9;2;7;100;92;2;0;000;000;000;000;000;000;000
+nicolas-serrano;Nico Serrano;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+williams-jr;Nicholas Williams Arthuer;1;4;35;31;4;56;41;2;0;000;000;000;000;000;000;000
+nicolas-pepe;Nicolas Pepe;0;1;19;12;7;36;28;1;0;000;000;000;000;000;000;000
+oier-gastesi;Oier Gastesi;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+o-sancet-1;Oihan Sancet;0;2;22;19;3;118;95;3;1;050;025;025;000;050;000;000
+oliver-mcburnie;Oliver McBurnie;0;4;60;25;35;95;64;2;0;000;000;000;000;000;000;000
+omar-alderete;Omar Alderete;0;2;26;8;18;124;53;22;0;000;000;000;000;000;000;000
+omar-1;Omar El Hilali;0;6;27;18;9;140;109;10;0;000;000;000;000;000;000;000
+mascarell;Omar Mascarell;0;5;19;14;5;74;63;4;0;000;000;000;000;000;000;000
+omar-sadik;Omar Sadik;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+oriol-romeu;Oriol Romeu;0;6;24;20;4;151;135;3;1;000;000;000;000;000;000;000
+orri-oskarsson;Orri Oskarsson;0;0;8;1;7;10;1;1;0;000;000;000;000;000;000;000
+pablo-barrios-rivas;Pablo Barrios;0;9;33;26;7;215;178;12;0;000;000;000;000;000;000;000
+pablo-duran;Pablo Duran;0;1;4;4;0;6;4;0;0;000;000;000;000;000;000;000
+p-fornals;Pablo Fornals;4;2;13;12;1;97;78;4;0;000;000;000;000;000;000;000
+pablo-ibanez;Pablo Ibanez;0;0;6;3;3;21;19;0;0;000;000;000;000;000;000;000
+maffeo;Pablo Maffeo;0;10;31;27;4;84;60;5;0;000;000;000;000;000;000;000
+pablo-marin;Pablo Marin;0;0;4;3;1;7;2;1;0;000;000;000;000;000;000;000
+pablo-rivera;Pablo Rivera;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+pablo-torre;Pablo Torre;0;0;0;0;0;3;3;0;0;000;000;000;000;000;000;000
+pape-alassane-gueye;Pape Gueye;0;3;20;17;3;91;64;9;0;000;000;000;000;000;000;000
+pathe-ciss;Pathe Ciss;0;3;20;15;5;65;46;1;0;000;000;000;000;000;000;000
+pau-cabanes-de-la-torre;Pau Cabanes De La Torre;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+pau-cubarsi;Pau Cubarsi;0;3;26;12;14;285;255;10;1;000;000;000;000;000;000;000
+pau-lopez;Pau Lopez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+pau-navarro;Pau Navarro;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+pau-victor;Pau Victor;0;1;6;6;0;9;6;0;0;000;000;000;000;000;000;000
+paulo-gazzaniga;Paulo Gazzaniga;0;0;0;0;0;110;75;12;0;000;000;000;000;000;000;000
+pedri;Pedro Gonzalez Lopez;1;5;23;23;0;181;148;7;1;050;000;050;050;000;000;000
+pedro-diaz;Pedro Diaz;0;1;2;1;1;2;2;0;0;000;000;000;000;000;000;000
+pelayo-fernandez;Pelayo Fernandez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+chavarria-1;Pep Chavarria;0;2;6;4;2;42;32;2;0;000;000;000;000;000;000;000
+pepelu;Jose Luis Garcia Vaya;19;10;32;24;8;244;188;16;2;000;000;000;000;000;000;000
+peque-1;Gerard Fernandez Castellano;0;0;6;4;2;16;13;0;0;000;000;000;000;000;000;000
+pere-milla;Pere Milla;0;0;9;8;1;22;13;1;0;000;000;000;000;000;000;000
+peter;Peter Federico Gonzalez Carmona;0;0;10;5;5;16;10;1;0;000;000;000;000;000;000;000
+pol-lozano;Pol Lozano;0;1;6;4;2;36;30;0;0;000;000;000;000;000;000;000
+portu;Cristian Portugues Manzanera;6;2;7;7;0;37;33;0;0;000;000;000;000;000;000;000
+rafa-mir;Rafa Mir;0;6;28;19;9;41;25;1;0;000;000;000;000;000;000;000
+rafael-bauza;Rafael Bauza;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+r-terrats;Ramon Terrats;0;1;3;3;0;11;5;2;0;000;000;000;000;000;000;000
+nteka;Randy Nteka;0;3;32;13;19;32;22;1;0;000;000;000;000;000;000;000
+raphinha;Raphael Dias Belloli;24;5;29;28;1;158;111;11;3;030;000;030;030;000;000;000
+r-albiol;Raul Albiol;0;2;16;7;9;174;152;6;0;000;000;000;000;000;000;000
+raul-chasco;Raul Chasco;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+raul-4;Raul Garcia;0;0;7;6;1;13;8;0;0;000;000;000;000;000;000;000
+raul-jimenez-1;Raul Jimenez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+raul-moro;Raul Moro;7;2;33;30;3;90;64;4;0;020;020;000;000;020;000;000
+r-d-t;Raul de Tomas;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+reinildo;Reinildo Isnard Mandava;0;7;19;15;4;114;93;1;0;000;000;000;000;000;000;000
+tapia-1;Renato Tapia;0;2;13;9;4;43;26;4;0;000;000;000;000;000;000;000
+ricardo-rodriguez-1;Ricardo Rodriguez;0;0;6;5;1;34;31;0;0;000;000;000;000;000;000;000
+robert-lewandowski;Robert Lewandowski;0;1;33;23;10;76;49;2;0;031;000;031;015;015;000;000
+navarro-2;Robert Navarro;0;0;6;6;0;6;4;0;0;000;000;000;000;000;000;000
+lopez-alcaide;Roberto Lopez;1;0;1;0;1;11;9;0;0;000;000;000;000;000;000;000
+le-normand;Robin Le Normand;0;8;29;21;8;236;206;8;0;000;000;000;000;000;000;000
+rodri-3;Rodrigo Sanchez Rodriguez;3;2;17;15;2;59;49;2;0;000;000;000;000;000;000;000
+rodrigo-abajas;Rodrigo Abajas;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+de-paul;Rodrigo De Paul;1;1;15;14;1;113;85;9;1;000;000;000;000;000;000;000
+riquelme;Rodrigo Riquelme;6;2;16;11;5;82;72;2;0;000;000;000;000;000;000;000
+rodrygo;Rodrygo Silva de Goes;9;3;32;29;3;170;151;0;0;020;000;020;000;020;000;000
+romain-perraud;Romain Perraud;0;6;33;30;3;99;78;1;0;000;000;000;000;000;000;000
+ruben-garcia;Ruben Garcia;5;7;37;30;7;126;97;10;0;020;000;020;000;020;000;000
+r-pena;Ruben Pena;0;1;4;4;0;11;6;0;0;000;000;000;000;000;000;000
+rui-silva;Rui Tiago Dantas da Silva;0;0;3;3;0;88;55;9;0;000;000;000;000;000;000;000
+sanchez-1;Salvi Sanchez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+samuel-lino;Samuel Dias Lino;1;6;36;33;3;141;109;10;0;000;000;000;000;000;000;000
+samu-3;Samuel de Almeida Costa;0;13;64;44;20;194;148;13;0;000;000;000;000;000;000;000
+sandro;Sandro Ramirez;6;3;18;17;1;48;38;1;0;033;000;033;017;017;000;000
+santi-c-v;Santi Comesana;0;3;29;21;8;159;138;10;1;000;000;000;000;000;000;000
+santiago-mourino;Santiago Mourino;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+saul-1;Saul Niguez;0;7;24;18;6;93;74;2;0;000;000;000;000;000;000;000
+scott-mckenna;Scott McKenna;0;2;13;4;9;205;178;4;0;000;000;000;000;000;000;000
+selim-amallah;Selim Amallah;2;5;36;34;2;75;59;5;2;000;000;000;000;000;000;000
+sergi-altimira;Sergi Altimira;0;0;1;0;1;20;15;3;0;000;000;000;000;000;000;000
+sergi-canos;Sergi Canos;2;0;2;1;1;10;8;0;0;000;000;000;000;000;000;000
+sergi-cardona;Sergi Cardona;0;10;30;24;6;155;119;8;0;033;000;033;033;000;000;000
+s-darder;Sergi Darder;6;3;18;17;1;99;69;9;0;000;000;000;000;000;000;000
+sergi-dominguez;Sergi Dominguez;0;0;0;0;0;34;31;1;0;000;000;000;000;000;000;000
+s-gomez;Sergi Gomez;0;1;8;1;7;81;72;2;0;000;000;000;000;000;000;000
+camello;Sergio Camello;0;1;17;11;6;31;24;1;1;100;000;100;100;000;000;000
+s-carreira;Sergio Carreira;0;4;12;10;2;37;31;0;0;000;000;000;000;000;000;000
+sergio-g;Sergio Gonzalez;0;3;31;9;22;213;173;13;0;000;000;000;000;000;000;000
+sergio-gomez;Sergio Gomez;14;7;32;20;12;113;86;3;0;000;000;000;000;000;000;000
+s-herrera;Sergio Herrera;0;0;0;0;0;115;55;24;0;000;000;000;000;000;000;000
+seydouba-cisse;Seydouba Cisse;1;2;18;15;3;126;104;8;0;000;000;000;000;000;000;000
+sheraldo-becker;Sheraldo Becker;0;1;17;11;6;52;34;1;0;000;000;000;000;000;000;000
+siebe-van-der-heyden;Siebe Van der Heyden;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+stanis-idumbo-muzambo;Stanis Idumbo Muzambo;0;1;3;3;0;4;3;0;0;000;000;000;000;000;000;000
+stanko-juric;Stanko Juric;0;10;34;28;6;131;113;3;0;000;000;000;000;000;000;000
+stipe-biuk;Stipe Biuk;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+stoichkov;Juan Diego Molina Martinez;0;2;20;14;6;56;30;5;4;000;000;000;000;000;000;000
+dimitrievski;Stole Dimitrievski;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+take;Takefusa Kubo;1;3;43;40;3;60;40;1;0;050;000;050;050;000;000;000
+takuma-asano;Takuma Asano;0;4;22;17;5;41;29;1;0;000;000;000;000;000;000;000
+nianzou-kouassi;Tanguy Nianzou;0;1;12;3;9;60;53;3;0;000;000;000;000;000;000;000
+tasos-douvikas;Tasos Douvikas;0;3;27;23;4;29;20;0;0;000;000;000;000;000;000;000
+courtois;Thibaut Courtois;0;0;3;0;3;106;87;10;0;000;000;000;000;000;000;000
+thierno-barry-1;Thierno Barry;0;0;33;16;17;22;9;0;0;033;000;033;000;000;033;000
+thierry-r;Thierry Rendall Correia;0;9;37;32;5;140;106;7;0;000;000;000;000;000;000;000
+tomas-conechny;Tomas Conechny;3;2;25;18;7;35;18;0;0;000;000;000;000;000;000;000
+lato;Antonio Latorre Grueso;0;2;8;7;1;32;24;2;0;000;000;000;000;000;000;000
+t-martinez;Toni Martinez;0;2;13;3;10;14;6;0;1;050;025;025;025;025;000;000
+toni-villa;Laureano Antonio Villa Suarez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+sadiq;Umar Sadiq;0;2;27;15;12;22;10;0;0;000;000;000;000;000;000;000
+unai-egiluz;Unai Egiluz;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+unai-garcia;Unai Garcia;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+unai-gomez;Unai Gomez;4;0;18;14;4;20;18;0;0;000;000;000;000;000;000;000
+unai-lopez;Unai Lopez;2;1;13;9;4;101;82;4;1;050;000;050;000;050;000;000
+marrero;Unai Marrero;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+nunez-2;Unai Nunez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+gonzalez-de-zarate;Urko Gonzalez;0;0;5;3;2;16;9;1;0;000;000;000;000;000;000;000
+valentin-rosier;Valentin Rosier;0;10;42;37;5;98;66;4;0;000;000;000;000;000;000;000
+valentin-barco;Valentin Barco;7;6;17;17;0;41;33;1;1;000;000;000;000;000;000;000
+valentin-pezzolesi;Valentin Pezzolesi;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+vedat-muriqi;Vedat Muriqi;0;0;57;21;36;80;50;4;0;010;000;010;000;000;010;000
+guaita;Vicente Guaita;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+viktor-tsygankov;Viktor Tsyhankov;14;2;15;13;2;98;74;2;0;050;000;050;050;000;000;000
+vini-jr;Vinicius Jose Paixao de Oliveira Junior;1;1;59;57;2;134;106;1;1;014;000;014;000;014;000;000
+viti;Viti Rozada;0;2;14;7;7;45;37;1;0;000;000;000;000;000;000;000
+vitor-roque;Vitor Hugo Roque Ferreira;0;0;6;5;1;6;5;0;0;000;000;000;000;000;000;000
+v-meseguer;Victor Meseguer;0;4;17;13;4;45;36;2;0;000;000;000;000;000;000;000
+victor-puig;Victor Puig;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+walid-cheddira;Walid Cheddira;0;0;16;9;7;6;5;0;0;000;000;000;000;000;000;000
+william-2;William Silva de Carvalho;0;3;23;18;5;167;129;11;0;000;000;000;000;000;000;000
+williot-swedberg;Williot Swedberg;0;2;18;16;2;37;29;2;1;014;014;000;000;014;000;000
+willy-kambwala;Willy Kambwala;0;4;10;4;6;41;25;5;0;000;000;000;000;000;000;000
+herrera-1;Yangel Herrera;0;10;43;37;6;146;130;1;0;000;000;000;000;000;000;000
+yarek-gasiorowski;Yarek Gasiorowski;0;4;15;6;9;89;73;5;1;000;000;000;000;000;000;000
+jesus-santiago;Jesus Santiago Perez;0;3;6;6;0;9;5;1;0;000;000;000;000;000;000;000
+yeray-2;Yeray Alvarez;0;6;33;22;11;230;177;18;1;000;000;000;000;000;000;000
+yeremy;Yeremy Pino;0;7;31;28;3;77;57;1;0;000;000;000;000;000;000;000
+youssouf-sabaly;Youssouf Sabaly;0;8;21;21;0;106;83;2;1;000;000;000;000;000;000;000
+yuri-b;Yuri Berchiche;0;4;19;15;4;120;103;5;0;000;000;000;000;000;000;000
+yvan-neyou;Yvan Neyou;0;5;35;27;8;144;112;8;0;000;000;000;000;000;000;000
+yaser-asprilla;Yaser Asprilla;0;1;9;9;0;17;16;0;0;000;000;000;000;000;000;000
+alex-b;Alex Baena;11;0;23;18;5;76;53;4;2;000;000;000;000;000;000;000
+alejandro-gil;Alex Gil;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alex-munoz;Alex Munoz;0;5;18;13;5;57;35;2;0;000;000;000;000;000;000;000
+alex-padilla;Alejandro Padilla Perez;0;0;2;1;1;64;20;13;0;000;000;000;000;000;000;000
+a-remiro;Alex Remiro;0;0;1;0;1;143;73;28;0;000;000;000;000;000;000;000
+a-sola;Alex Sola;0;3;46;32;14;42;21;1;0;000;000;000;000;000;000;000
+alex-suarez;Alex Suarez;0;9;29;16;13;210;173;8;0;000;000;000;000;000;000;000
+alex-valle;Alex Valle;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+aguado-1;Alvaro Aguado;1;3;10;10;0;83;65;3;1;000;000;000;000;000;000;000
+alvaro-djalo;Alvaro Djalo Dias Fernandes;0;0;9;7;2;16;12;0;0;000;000;000;000;000;000;000
+alvaro-fernandez;Alvaro Fernandez;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+alvaro-1;Alvaro Garcia;0;5;12;10;2;47;28;3;0;025;000;025;000;025;000;000
+alvaro-killane;Alvaro Killane;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+a-tejero;Alvaro Tejero;5;0;13;9;4;62;46;1;0;000;000;000;000;000;000;000
+correa;Angel Correa;0;1;15;13;2;29;25;0;0;100;000;100;000;100;000;000
+angel-f;Angel Fortuno;0;0;0;0;0;0;0;0;0;000;000;000;000;000;000;000
+e-militao;Eder Gabriel Militao;0;5;41;25;16;264;229;15;0;000;000;000;000;000;000;000
+i-lekue;Inigo Lekue;0;3;10;10;0;102;85;2;0;000;000;000;000;000;000;000
+de-marcos;Oscar De Marcos;0;2;12;10;2;44;32;1;0;000;000;000;000;000;000;000
+mingueza;Oscar Mingueza;2;6;20;18;2;202;151;9;0;050;025;025;000;050;000;025
+oscar-4;Oscar Rodriguez;3;2;24;19;5;66;48;4;0;000;000;000;000;000;000;000
+oscar-trejo;Oscar Trejo;0;1;13;11;2;19;14;0;0;000;000;000;000;000;000;000
+oscar-5;Oscar Valentin;0;6;45;32;13;120;93;5;0;000;000;000;000;000;000;000
+orjan-nyland;Ørjan Nyland;0;0;1;0;1;121;56;16;0;000;000;000;000;000;000;000
