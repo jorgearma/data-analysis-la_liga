@@ -23,7 +23,7 @@ To run SQL Server in a Docker container, use the following command:
 ```bash
 docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourPASSWORD' \
 -p 1433:1433 \
--v /your/directory/data-analysis-la_liga/jornada-SQL:/var/opt/mssql/sql_files \
+-v /your/directory/data-analysis-la_liga/jornadas:/var/opt/mssql/sql_files \
 --name BD-name \
 -d mcr.microsoft.com/mssql/server:2019-latest
 ```
@@ -56,17 +56,15 @@ Run the scripts to perform web scraping and store the data in the database:
 
 ## 5. Normalize player names
 
-After running the previous scripts, it is necessary to normalize player names using the `Text-Normalizer.py` script. Before executing it, make sure to modify the following path inside the script to match the correct directory:
+After running the previous scripts, it is necessary to normalize player names using the `Text-Normalizer.py` script. Before executing it:
 
 ```python
-    directorio_entrada = '/your/directory/data-analysis-la_liga/jornadas/jornada25'
-```
+┌──(la-liga)─(siemprearmando㉿elfavo)-[~/Desktop/data-analysis-la_liga] ➟ main
+└─$ python3  Text-Normalizer.py 
 
-Then, run:
-
-```bash
-    python Text-Normalizer.py
+Enter the name of the dataframe (example: jornada27): 
 ```
+Here, you should enter the dataframe name you want to normalize, you will find it in ```jornadas```
 
 ## 6. Configure Docker and SQL Server
 
@@ -97,6 +95,11 @@ Next, run the SQL script to add the data:
 ```
 
 ##
+
+## picture
+This is the result obtained after executing the scripts. The database has been successfully created and populated with the necessary data, and everything is now ready to use Pandas for further data analysis.
+
+![dbaver](screeshoots/dbaver-axample.png)
 
 \## Créditos
 

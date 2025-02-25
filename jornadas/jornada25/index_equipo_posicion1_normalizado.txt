@@ -288,7 +288,7 @@ s-gomez;Sergi Gomez;RCD Espanyol de Barcelona;Defensas
 sergio-arribas-1;Sergio Arribas;Real Betis;Defensas
 s-carreira;Sergio Carreira;RC Celta;Defensas
 sergio-g;Sergio Gonzalez;CD Leganes;Defensas
-siebe-van-der-heyden;Siebe Van der Heyden;FC St Pauli;Defensas
+siebe-van-der-heyden;Siebe Van der Heyden;FC St. Pauli;Defensas
 nianzou-kouassi;Tanguy Nianzou;Sevilla FC;Defensas
 thierry-r;Thierry Rendall Correia;Sin equipo;Defensas
 lato;Antonio Latorre Grueso;RCD Mallorca;Defensas
@@ -512,7 +512,7 @@ unai-gomez;Unai Gomez;Athletic Club;Centrocampistas
 unai-lopez;Unai Lopez;Rayo Vallecano;Centrocampistas
 gonzalez-de-zarate;Urko Gonzalez;RCD Espanyol de Barcelona;Centrocampistas
 viti;Viti Rozada;UD Las Palmas;Centrocampistas
-v-meseguer;Victor Meseguer;R Racing Club;Centrocampistas
+v-meseguer;Victor Meseguer;R. Racing Club;Centrocampistas
 william-2;William Silva de Carvalho;Real Betis;Centrocampistas
 williot-swedberg;Williot Swedberg;RC Celta;Centrocampistas
 herrera-1;Yangel Herrera;Girona FC;Centrocampistas

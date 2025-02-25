@@ -9,10 +9,18 @@ def eliminar_tildes(texto):
 
 def eliminar_puntuacion(texto):
     """Elimina los signos de puntuación, excepto ';'."""
-    return re.sub(r'[^\w\s;-]', '', texto)
+    return re.sub(r'[^\w\s;\-\.]', '', texto)
 
-# Ruta del directorio de entrada
-directorio_entrada = '/home/siemprearmando/Desktop/data-analysis-la_liga/jornadas/jornada27'
+# Pedir al usuario la jornada que desea procesar
+directorio_base = './jornadas/'
+jornada = input("Enter the name of the matchday (example: jornada27): ")
+directorio_entrada = os.path.join(directorio_base, jornada)
+
+# Verificar si el directorio ingresado existe
+if not os.path.exists(directorio_entrada):
+    print(f"El directorio {directorio_entrada} no existe.")
+    exit()
+
 # Ruta del directorio de respaldo
 backup_dir = os.path.join(directorio_entrada, 'backup')
 
@@ -39,7 +47,7 @@ for archivo in os.listdir(directorio_entrada):
                 linea_normalizada = eliminar_puntuacion(linea_normalizada)
                 f_out.write(linea_normalizada)
 
-    # Eliminar el archivo original del directorio de entrada
+        # Eliminar el archivo original del directorio de entrada
         os.remove(ruta_entrada)            
         
-        print(f"Archivo '{archivo}'normalizado => respaldado del {archivo}  en backup' '")
+        print(f"Archivo '{archivo}' normalizado => respaldado en backup")
